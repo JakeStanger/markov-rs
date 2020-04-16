@@ -1,6 +1,6 @@
 /// <reference types="node" />
 
-export class Chain {
+export class StringChain {
   /**
    * Creates a new chain, or loads from file.
    * If a string argument is supplied, this is used from the path to load from.

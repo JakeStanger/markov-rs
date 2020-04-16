@@ -5,7 +5,7 @@ use neon::prelude::*;
 type StringChain = Chain<String>;
 
 declare_types! {
-    pub class JsChain for StringChain {
+    pub class JsStringChain for StringChain {
         init(mut cx) {
             match cx.argument_opt(0) {
                 Some(arg) => {
@@ -88,6 +88,6 @@ declare_types! {
 }
 
 register_module!(mut m, {
-    m.export_class::<JsChain>("Chain")?;
+    m.export_class::<JsStringChain>("StringChain")?;
     Ok(())
 });
