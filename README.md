@@ -28,7 +28,7 @@ const StringChain = require('markov-rs').StringChain;
 import { StringChain } from 'markov-rs';
 ```
 
-Then create a new instance and start using it:
+Then create a new instance:
 
 ```ts
 const chain = new StringChain();
@@ -38,7 +38,11 @@ const chain = new MarkovChain(2);
 
 // or to load a previously saved chain:
 const chain = new MarkovChain('./path/to/chain.mko');
+```
 
+And start using it:
+
+```ts
 console.log(chain.isEmpty()) // -> true
 
 // then populate:
