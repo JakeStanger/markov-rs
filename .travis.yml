@@ -36,7 +36,7 @@ jobs:
       script: skip
       deploy:
         provider: script
-        cleanup: false
+        skip_cleanup: true
         script:
           - npm -g install @semantic-release/git semantic-release && semantic-release
 
