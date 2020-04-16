@@ -1,4 +1,5 @@
 # markov-rs
+[![Build Status](https://travis-ci.com/JakeStanger/markov-rs.svg?branch=master)](https://travis-ci.com/JakeStanger/markov-rs)
 
 Node bindings for the Rust module 'markov'.
 
