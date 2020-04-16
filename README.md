@@ -59,5 +59,5 @@ const sentence = chain.generateString();
 const promptedSentence = chain.generateStringFromToken('here');
 
 // and to save it to disk to be loaded again later:
-chain.save('./path/to/chain.mko')
+chain.save('./path/to/chain.mko');
 ```
