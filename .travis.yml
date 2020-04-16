@@ -1,7 +1,6 @@
 os:
-  - windows
-  - osx
   - linux
+  - osx
 
 language: node_js
 
@@ -13,19 +12,6 @@ node_js:
 cache:
   cargo: true
   yarn: true
-
-jobs:
-  include:
-    # Define the release stage that runs semantic-release
-    - stage: release
-      node_js: lts/*
-      # Advanced: optionally overwrite your default `script` step to skip the tests
-      # script: skip
-      deploy:
-        provider: script
-        skip_cleanup: true
-        script:
-          - npx semantic-release
 
 before_install:
   # Install Rust and Cargo
@@ -40,3 +26,17 @@ before_install:
 script:
   # Run tests
   - yarn jest
+
+jobs:
+  include:
+    # Define the release stage that runs semantic-release
+    - stage: release
+      os: linux
+      node_js: lts/*
+      # Advanced: optionally overwrite your default `script` step to skip the tests
+      # script: skip
+      deploy:
+        provider: script
+        skip_cleanup: true
+        script:
+          - npx semantic-release
