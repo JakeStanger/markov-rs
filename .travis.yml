@@ -38,4 +38,5 @@ jobs:
         provider: script
         cleanup: false
         script:
-          - npx semantic-release
+          - npm -g install @semantic-release/git semantic-release
+          - semantic-release
