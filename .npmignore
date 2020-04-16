@@ -1,0 +1,7 @@
+/test
+/.idea
+/native/target
+artifacts.json
+index.node
+.editorconfig
+.travis.yml

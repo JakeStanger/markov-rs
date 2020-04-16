@@ -1,7 +1,7 @@
 {
   "name": "markov-rs",
   "version": "0.0.0-development",
-  "description": "Node bindings for markov",
+  "description": "Node bindings for Rust markov module",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
@@ -9,6 +9,7 @@
   },
   "author": "Jake Stanger <mail@jstanger.dev>",
   "license": "MIT",
+  "keywords": ["markov", "markov-chain", "rust", "native"],
   "scripts": {
     "install": "neon build",
     "test": "jest",
