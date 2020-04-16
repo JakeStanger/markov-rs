@@ -1,0 +1,7609 @@
+---
+map:
+  ? - designs.
+  : ~: 1
+  ? - to
+  : stop: 1
+    write: 2
+    the: 26
+    fool: 1
+    wait: 1
+    hear.: 1
+    endure.: 1
+    drop: 1
+    hold: 1
+    kittens.: 1
+    waste.: 1
+    polish.: 1
+    do: 1
+    bring: 1
+    fix: 1
+    leave.: 1
+    a: 1
+    children.: 1
+    pay: 1
+    dinner.: 1
+    fasten: 1
+    tell: 2
+    gather: 1
+    strike: 1
+    set: 1
+    serve.: 1
+    every: 1
+    that: 1
+    jell.: 1
+    buy.: 1
+    be: 3
+    capture: 1
+    pass: 1
+    catch: 2
+    finish: 2
+    new: 1
+    save: 1
+    drive: 1
+    know.: 1
+    admit: 1
+    her: 1
+    make: 2
+    suit: 1
+    thresh: 1
+    wrong: 1
+    find: 1
+    cheat: 1
+    fame: 1
+    read.: 1
+    free: 1
+    write.: 1
+    do.: 1
+    drink: 1
+    trace: 1
+    have: 1
+    win.: 1
+    lose: 1
+    discuss: 1
+    preserve: 1
+    light: 1
+    tea: 1
+    blow.: 1
+    raise: 1
+    reach: 1
+    see: 2
+    keep: 2
+    dig: 1
+    kindle: 1
+    spend: 1
+    plant: 1
+    come: 1
+    sell.: 1
+    mark: 1
+    your: 1
+    erase: 1
+    sew: 1
+    vouch: 1
+    rust: 1
+    replace: 1
+    sun: 1
+    more: 1
+    frighten: 1
+    sick: 1
+    third: 1
+    take.: 1
+  ? - merge
+  : in: 1
+  ? - poured
+  : out: 1
+  ? - ads
+  : serve: 1
+  ? - hold
+  : rings.: 1
+    hard: 1
+    four: 1
+  ? - wit
+  : saved: 1
+  ? - my
+  : nose.: 1
+    front: 1
+  ? - horse
+  : trotted: 1
+    balked: 1
+    will: 1
+    for: 1
+    and: 2
+  ? - Dispense
+  : with: 1
+  ? - carpet.
+  : ~: 1
+  ? - plea
+  : for: 1
+  ? - port.
+  : ~: 1
+  ? - wonders.
+  : ~: 1
+  ? - dart
+  : from: 1
+  ? - jail.
+  : ~: 1
+  ? - five
+  : cents: 1
+    robins.: 1
+  ? - slant.
+  : ~: 1
+  ? - "soft,"
+  : and: 1
+  ? - Use
+  : a: 1
+  ? - can
+  : beat: 1
+    cleanse: 1
+    be: 1
+    cause: 1
+    wash: 1
+  ? - puff
+  : of: 1
+  ? - charm
+  : and: 1
+  ? - in.
+  : ~: 3
+  ? - hailed
+  : the: 1
+  ? - soon
+  : as: 1
+  ? - "swan,"
+  : tall: 1
+  ? - jar
+  : with: 2
+  ? - gnawed
+  : a: 1
+  ? - yard
+  : had: 1
+  ? - wall
+  : allowed: 1
+    clock.: 1
+    and: 1
+    dull: 1
+    phone: 1
+  ? - skill.
+  : ~: 1
+  ? - along
+  : with: 1
+    the: 4
+  ? - Smoke
+  : poured: 1
+  ? - gray
+  : mare: 1
+  ? - floated
+  : "on": 1
+    JTith: 1
+  ? - wires
+  : should: 1
+  ? - Bottles
+  : hold: 1
+  ? - arrive
+  : "on": 1
+  ? - dense
+  : crowd: 1
+    grass.: 1
+  ? - edge
+  : of: 2
+    brought: 1
+  ? - names.
+  : ~: 1
+  ? - soon.
+  : ~: 1
+  ? - over.
+  : ~: 2
+  ? - thought
+  : and: 1
+  ? - force
+  : equal: 1
+  ? - prone
+  : and: 1
+  ? - stray
+  : cat: 1
+  ? - pockets.
+  : ~: 1
+  ? - pants
+  : and: 1
+    lack: 1
+  ? - empty
+  : room.: 1
+    space.: 1
+    flask: 1
+  ? - some
+  : flower: 1
+    forin: 1
+    lamb.: 1
+  ? - tongs
+  : lay: 1
+  ? - chief.
+  : ~: 1
+  ? - restores
+  : health: 1
+  ? - force.
+  : ~: 1
+  ? - see
+  : him.: 1
+    it.: 1
+    the: 1
+    clear: 1
+  ? - sinking.
+  : ~: 1
+  ? - High
+  : seats: 1
+  ? - name
+  : boldly: 1
+    many: 1
+  ? - boss
+  : ran: 1
+  ? - play
+  : began: 1
+    seems: 1
+  ? - quick
+  : fox: 1
+    snip: 1
+  ? - sword
+  : was: 1
+  ? - dip
+  : restores: 1
+  ? - perfect.
+  : ~: 1
+  ? - Read
+  : just: 1
+    verse: 1
+  ? - bag.
+  : ~: 1
+  ? - cue
+  : for: 1
+  ? - bombs
+  : left: 1
+  ? - rider.
+  : ~: 2
+  ? - blocks
+  : of: 1
+  ? - source
+  : of: 2
+  ? - less
+  : than: 2
+    good: 1
+    luggage: 1
+    he: 1
+  ? - groups
+  : of: 1
+  ? - child.
+  : ~: 1
+  ? - Paint
+  : the: 1
+  ? - thief.
+  : ~: 1
+  ? - worn
+  : to: 1
+    old: 1
+    in: 1
+    floor.: 1
+  ? - cigar
+  : burned: 1
+  ? - dark
+  : pot: 1
+    blue: 1
+    lawn.: 1
+  ? - morning
+  : was: 1
+    "on": 1
+  ? - dig
+  : the: 1
+  ? - weight.
+  : of: 1
+    ~: 1
+  ? - glass
+  : top.: 1
+  ? - business
+  : of: 1
+  ? - distinct
+  : ways.: 1
+  ? - "locked,"
+  : and: 1
+  ? - wheels.
+  : ~: 1
+  ? - big
+  : red: 1
+    task: 1
+    wet: 1
+    town.: 1
+    pipe: 1
+  ? - stubborn
+  : cold.: 1
+  ? - Hop
+  : over: 1
+  ? - pace.
+  : ~: 1
+  ? - verse
+  : out: 1
+  ? - hole
+  : was: 1
+    in: 2
+  ? - walls
+  : were: 1
+  ? - suffer
+  : fright.: 1
+  ? - out.
+  : ~: 3
+  ? - failed.
+  : ~: 1
+  ? - fell
+  : from: 2
+    with: 1
+    to: 1
+    and: 1
+  ? - cleanse
+  : the: 1
+  ? - coin
+  : was: 1
+    but: 1
+  ? - compass
+  : to: 1
+  ? - Flood
+  : the: 1
+  ? - back.
+  : ~: 1
+  ? - scale.
+  : ~: 1
+  ? - comes
+  : from: 1
+    in: 1
+    up: 1
+  ? - said
+  : the: 1
+  ? - slides
+  : back.: 1
+  ? - clothes
+  : are: 1
+    dried: 1
+  ? - cloth
+  : make: 1
+    into: 1
+    and: 1
+  ? - "Madam,"
+  : this: 1
+  ? - clap
+  : as: 1
+  ? - "rained,"
+  : and: 1
+  ? - gift
+  : to: 1
+  ? - mute
+  : muffled: 1
+  ? - fan
+  : whirled: 1
+  ? - brown
+  : leather: 1
+    box: 1
+    ox.: 1
+    grass.: 1
+    jug: 1
+    and: 1
+    house: 1
+  ? - Take
+  : a: 1
+    the: 2
+    shelter: 1
+    two: 1
+  ? - crowd
+  : in: 1
+    and: 1
+  ? - Three
+  : for: 1
+  ? - sleeping
+  : cop.: 1
+    cat.: 1
+  ? - mass
+  : of: 1
+  ? - cat
+  : glaring: 1
+    in: 1
+    gave: 1
+  ? - slices.
+  : ~: 1
+  ? - taught
+  : the: 1
+  ? - kept
+  : him: 1
+    dry.: 1
+    secret.: 1
+    his: 1
+    in: 1
+    the: 1
+    covered.: 1
+    it: 1
+  ? - shift
+  : men: 1
+  ? - draft.
+  : ~: 1
+  ? - dish
+  : served: 1
+  ? - bowl.
+  : ~: 1
+  ? - children
+  : came: 1
+    off.: 1
+  ? - Dimes
+  : showered: 1
+  ? - through
+  : the: 4
+  ? - Bail
+  : the: 1
+  ? - pipe
+  : began: 1
+    with: 1
+    ran: 1
+  ? - needs
+  : much: 1
+    changing.: 1
+    work: 1
+    power: 1
+    to: 1
+  ? - maze
+  : failed: 1
+  ? - vat
+  : over: 1
+  ? - grew
+  : daily.: 1
+    large: 1
+  ? - suffice.
+  : ~: 1
+  ? - copper
+  : bowl: 1
+  ? - limb.
+  : ~: 1
+  ? - farmer
+  : swapped: 1
+  ? - torch.
+  : ~: 1
+  ? - length
+  : of: 1
+  ? - narrow
+  : and: 1
+  ? - quart
+  : of: 1
+  ? - man
+  : went: 1
+    can: 1
+    in: 1
+    counted: 1
+    wore: 1
+  ? - night.
+  : ~: 4
+  ? - bun.
+  : ~: 1
+  ? - Crouch
+  : before: 1
+  ? - "dime,"
+  : the: 1
+  ? - helped
+  : him: 1
+  ? - whole
+  : distance.: 1
+  ? - Bribes
+  : fail: 1
+  ? - duke
+  : left: 1
+  ? - green
+  : light: 1
+    in: 1
+    flame.: 1
+    ink.: 1
+    grass.: 1
+    outdoors.: 1
+  ? - vast
+  : space: 1
+  ? - salt.
+  : ~: 1
+  ? - doorknob
+  : was: 1
+  ? - fall
+  : with: 1
+  ? - forin
+  : or: 1
+  ? - perch
+  : and: 1
+  ? - clear.
+  : ~: 1
+  ? - Dots
+  : of: 1
+  ? - lives
+  : in: 1
+  ? - around
+  : the: 4
+  ? - car
+  : woke: 1
+  ? - every
+  : child: 1
+    third: 1
+    crack.: 1
+  ? - skill
+  : of: 1
+  ? - Boards
+  : will: 1
+  ? - this.
+  : ~: 1
+  ? - tumbles
+  : the: 1
+  ? - room
+  : was: 1
+  ? - "neighbor's"
+  : house.: 1
+  ? - mouse.
+  : ~: 2
+  ? - pills
+  : do: 1
+  ? - burn
+  : it.: 1
+  ? - brisk
+  : pace.: 1
+  ? - bunch
+  : of: 1
+  ? - cure
+  : the: 1
+  ? - hurry
+  : up: 1
+  ? - novel
+  : there: 1
+  ? - seals
+  : were: 1
+  ? - store
+  : was: 2
+    shelves.: 1
+    walls: 1
+  ? - taste
+  : fine.: 1
+    of: 1
+  ? - frosty
+  : air: 1
+  ? - Shape
+  : the: 1
+  ? - size.
+  : ~: 1
+  ? - steer
+  : the: 1
+  ? - does
+  : not: 1
+  ? - bird.
+  : ~: 1
+  ? - node
+  : "on": 1
+  ? - His
+  : hip: 1
+    shirt: 1
+    wide: 1
+  ? - few
+  : friends.: 1
+    banned: 1
+    days.: 1
+  ? - health.
+  : ~: 1
+  ? - map
+  : had: 1
+  ? - drove
+  : with: 1
+  ? - shirt
+  : was: 1
+  ? - cuffs
+  : and: 1
+  ? - Stop
+  : whistling: 1
+    and: 1
+  ? - smoke
+  : a: 1
+  ? - sixteen
+  : weeks.: 1
+  ? - gain.
+  : ~: 1
+  ? - easy
+  : for: 1
+    to: 1
+  ? - ring
+  : fits: 1
+    clear.: 1
+    will: 1
+  ? - tan
+  : shirt.: 1
+  ? - go
+  : out.: 1
+  ? - colds
+  : and: 1
+  ? - capture
+  : a: 1
+  ? - colt
+  : reared: 1
+  ? - horn.
+  : ~: 1
+  ? - Neat
+  : plans: 1
+  ? - covered.
+  : ~: 1
+  ? - Sell
+  : your: 1
+  ? - bend
+  : in: 1
+  ? - do
+  : these: 1
+    less: 1
+    to: 1
+  ? - sure
+  : to: 1
+    that: 1
+  ? - release
+  : hot: 1
+  ? - win.
+  : ~: 1
+  ? - without
+  : leaves.: 1
+    luck.: 1
+    a: 1
+  ? - pail.
+  : ~: 1
+  ? - occurred
+  : by: 1
+  ? - both
+  : rare: 1
+    jam: 1
+    branches.: 1
+    edges: 1
+    chairs: 1
+    ends.: 1
+  ? - start
+  : does: 1
+    will: 1
+  ? - Rake
+  : the: 1
+  ? - write
+  : the: 1
+    with: 1
+    short: 1
+  ? - saw
+  : a: 2
+    to: 1
+    is: 1
+  ? - food.
+  : ~: 1
+  ? - faced
+  : us.: 1
+  ? - banned
+  : books.: 1
+  ? - slat’e.
+  : ~: 1
+  ? - stage.
+  : ~: 1
+  ? - Coax
+  : a: 1
+  ? - pure.
+  : ~: 1
+  ? - farmer.
+  : ~: 1
+  ? - feline
+  : shape.: 1
+  ? - decide
+  : the: 1
+  ? - beach.
+  : ~: 2
+  ? - swing
+  : fans: 1
+  ? - useless.
+  : ~: 1
+  ? - track
+  : mark.: 1
+  ? - wide
+  : and: 1
+    highway.: 1
+    road: 1
+    grin: 1
+    river.: 1
+    chair.: 1
+  ? - thirty
+  : times.: 1
+    cents.: 1
+  ? - droopy.
+  : ~: 1
+  ? - lived
+  : with: 1
+  ? - false.
+  : ~: 1
+  ? - birch
+  : canoe: 1
+    looked: 1
+  ? - follow
+  : through.: 1
+  ? - pine
+  : torch.: 1
+    tree: 1
+  ? - fed
+  : chopped: 1
+  ? - load
+  : to: 1
+  ? - lines.
+  : ~: 1
+  ? - neck
+  : means: 1
+  ? - attacked
+  : the: 1
+  ? - watch
+  : constant.: 1
+    the: 1
+  ? - ears
+  : were: 1
+  ? - hitch
+  : between: 1
+  ? - goes
+  : by: 1
+    with: 1
+  ? - seized
+  : the: 1
+    without: 1
+  ? - equal
+  : to: 1
+  ? - records
+  : in: 1
+  ? - lemons
+  : makes: 1
+  ? - slide
+  : show: 1
+  ? - onto
+  : the: 1
+  ? - dusty
+  : bench: 1
+  ? - Fish
+  : evade: 1
+  ? - earned
+  : many: 1
+  ? - nho
+  : walk: 1
+  ? - brightened
+  : the: 1
+  ? - pears
+  : are: 1
+    lack: 1
+  ? - ten.
+  : ~: 2
+  ? - peat
+  : after: 1
+  ? - shine
+  : but: 1
+  ? - speech
+  : will: 1
+  ? - shrubs.
+  : ~: 1
+  ? - orange
+  : red.: 1
+  ? - We
+  : find: 1
+    are: 1
+    now: 1
+    like: 1
+    admire: 1
+    "don't": 2
+    talked: 1
+    dress: 1
+    need: 2
+    frown: 1
+    tried: 1
+  ? - zones
+  : merge: 1
+  ? - idea
+  : is: 1
+  ? - print.
+  : ~: 1
+  ? - landing.
+  : ~: 1
+  ? - vane
+  : "on": 1
+  ? - hand
+  : side.: 1
+  ? - minutes.
+  : ~: 1
+  ? - littered
+  : the: 1
+  ? - At
+  : night: 1
+    that: 1
+  ? - aloft.
+  : ~: 1
+  ? - cold.
+  : ~: 1
+  ? - Find
+  : the: 1
+  ? - palate.
+  : ~: 1
+  ? - flood
+  : mark: 1
+  ? - boldly
+  : at: 1
+  ? - forget
+  : it.: 1
+    the: 1
+  ? - thumb
+  : tacks.: 1
+  ? - drive.
+  : ~: 1
+  ? - who
+  : is: 1
+    stole: 1
+    rob: 1
+  ? - dogs
+  : each: 1
+  ? - corn.
+  : ~: 2
+  ? - wanders.
+  : ~: 1
+  ? - mark.
+  : ~: 2
+  ? - brand
+  : of: 2
+  ? - hissed
+  : from: 1
+  ? - dress.
+  : ~: 1
+  ? - side
+  : pocket.: 1
+    teeth.: 1
+  ? - mule
+  : trod: 1
+    with: 1
+  ? - Some
+  : ads: 1
+  ? - rings.
+  : ~: 1
+  ? - peak
+  : Tuesday.: 1
+  ? - like
+  : new.: 1
+    a: 1
+    fast: 1
+    this.: 1
+    to: 2
+  ? - talked
+  : of: 1
+  ? - Hemp
+  : is: 1
+  ? - fox
+  : jumped: 1
+  ? - passage.
+  : ~: 1
+  ? - word
+  : and: 1
+    for: 1
+  ? - lodging
+  : are: 1
+  ? - day.
+  : ~: 2
+  ? - droned
+  : in: 1
+  ? - Dill
+  : pickles: 1
+  ? - Jerk
+  : the: 3
+  ? - top
+  : made: 1
+    waved: 1
+    of: 3
+  ? - payment
+  : of: 1
+  ? - Sweet
+  : words: 1
+  ? - stripe
+  : runs: 1
+  ? - ram
+  : scared: 1
+  ? - Type
+  : out: 1
+  ? - lantern
+  : which: 1
+  ? - right.
+  : ~: 1
+  ? - broke
+  : the: 1
+    a: 1
+    his: 1
+  ? - Put
+  : the: 1
+  ? - watchful
+  : eye.: 1
+  ? - shelves
+  : were: 1
+  ? - blotter
+  : was: 1
+  ? - yellow
+  : in: 1
+    pad.: 1
+  ? - any
+  : girl.: 1
+    wood.: 1
+    shoes.: 1
+  ? - shade.
+  : ~: 1
+  ? - holes
+  : in: 1
+  ? - years
+  : old.: 1
+    he: 1
+  ? - woodland
+  : burned: 1
+  ? - robins.
+  : ~: 1
+  ? - hog
+  : crawled: 1
+  ? - score
+  : low.: 1
+  ? - wool
+  : cloth.: 1
+  ? - grin
+  : earned: 1
+  ? - Poached
+  : eggs: 1
+  ? - winds
+  : bring: 1
+  ? - garbage.
+  : ~: 1
+  ? - you
+  : go: 1
+    say: 1
+    designed: 1
+    may: 1
+    hear: 1
+    please: 1
+    add: 1
+    fry: 1
+    want: 1
+    waste: 1
+    jump: 1
+    will: 1
+    freeze: 1
+    mumble: 1
+    cherish.: 1
+  ? - stylish
+  : once: 1
+  ? - waves
+  : push: 1
+  ? - inches
+  : wide.: 1
+  ? - wheeled
+  : the: 1
+  ? - reared
+  : and: 1
+  ? - waved
+  : when: 1
+    in: 1
+  ? - serve
+  : to: 1
+    but: 1
+  ? - s
+  : smoky: 1
+  ? - hot-cross
+  : bun.: 1
+  ? - Ship
+  : maps: 1
+  ? - Bad
+  : nerves: 1
+  ? - friendly
+  : child.: 1
+    gang: 1
+  ? - "burn,"
+  : it: 1
+  ? - stitch
+  : will: 1
+  ? - through.
+  : ~: 1
+  ? - trims
+  : any: 1
+  ? - shell
+  : was: 1
+  ? - rise
+  : to: 1
+  ? - "store's"
+  : account: 1
+  ? - evade
+  : the: 1
+  ? - Navy
+  : attacked: 1
+  ? - drifts
+  : over: 1
+    along: 1
+  ? - care.
+  : ~: 1
+  ? - plum
+  : is: 1
+  ? - sky.
+  : ~: 1
+  ? - woven
+  : straw: 1
+  ? - waiting
+  : at: 1
+  ? - fire.
+  : ~: 3
+  ? - water.
+  : ~: 5
+  ? - frog
+  : are: 1
+  ? - bay.
+  : ~: 1
+  ? - rope
+  : will: 1
+    and: 1
+  ? - polish.
+  : ~: 1
+  ? - bike
+  : past.: 1
+  ? - bear.
+  : ~: 1
+  ? - pressed
+  : into: 1
+    for: 1
+  ? - party.
+  : ~: 1
+  ? - errand.
+  : ~: 1
+  ? - boys
+  : march.: 1
+  ? - world
+  : to: 1
+  ? - gas
+  : tank.: 1
+  ? - Serve
+  : the: 1
+  ? - sash
+  : of: 1
+  ? - swapped
+  : his: 1
+  ? - true.
+  : ~: 1
+  ? - Drive
+  : the: 1
+  ? - shall
+  : shield: 1
+  ? - "sun's"
+  : rays.: 1
+  ? - sense.
+  : ~: 1
+  ? - stranger.
+  : ~: 2
+  ? - They
+  : could: 1
+    sang: 1
+    told: 1
+    floated: 1
+    took: 2
+    are: 2
+    slice: 1
+    felt: 1
+  ? - alarm
+  : roused: 1
+  ? - give
+  : out.: 1
+  ? - our
+  : hero: 1
+    small: 1
+    mules: 1
+    feet.: 1
+  ? - quickly.
+  : ~: 2
+  ? - Xew
+  : pants: 1
+  ? - late
+  : morning: 1
+    June: 1
+  ? - Add
+  : the: 3
+    salt: 1
+  ? - man.
+  : ~: 2
+  ? - hot
+  : water: 1
+    sun.: 2
+    June: 1
+    steam.: 1
+    pipes.: 1
+    drink.: 1
+    rum: 1
+    fire.: 1
+  ? - lock.
+  : ~: 1
+  ? - view
+  : stunned: 1
+  ? - Seed
+  : is: 1
+  ? - little
+  : time.: 1
+    skill.: 1
+    tales: 1
+  ? - Dig
+  : deep: 1
+  ? - Cars
+  : and: 1
+  ? - soldiers
+  : past: 1
+    stood: 1
+  ? - chairs
+  : were: 1
+  ? - arm
+  : shall: 1
+  ? - spot
+  : with: 1
+    "on": 1
+  ? - weakly.
+  : ~: 1
+  ? - season
+  : for: 1
+  ? - improves
+  : with: 1
+  ? - end
+  : he: 1
+    to: 1
+    in: 1
+    of: 1
+  ? - smuggled
+  : food.: 1
+  ? - peel
+  : was: 1
+  ? - bench
+  : stood: 1
+  ? - Peep
+  : under: 1
+  ? - grass
+  : curled: 1
+    and: 1
+  ? - kite
+  : dipped: 1
+    flew: 1
+  ? - means
+  : the: 1
+    a: 1
+  ? - coins
+  : will: 1
+  ? - bad.
+  : ~: 1
+  ? - stately
+  : way: 1
+  ? - days.
+  : ~: 4
+  ? - firm
+  : "on": 1
+    strokes.: 1
+  ? - cap
+  : "on": 1
+  ? - Grape
+  : juice: 1
+  ? - wide.
+  : ~: 1
+  ? - shone
+  : in: 1
+    with: 1
+    like: 1
+  ? - Drop
+  : the: 2
+  ? - trace
+  : the: 1
+  ? - eye.
+  : ~: 1
+  ? - Do
+  : that: 1
+  ? - pleasant
+  : hours: 1
+    sound.: 1
+  ? - raise
+  : a: 1
+  ? - Adding
+  : fast: 1
+  ? - hostess
+  : taught: 1
+  ? - marble.
+  : ~: 1
+  ? - flop
+  : from: 1
+  ? - drapes
+  : were: 1
+  ? - table.
+  : ~: 1
+  ? - thing
+  : of: 1
+    in: 1
+  ? - sale
+  : could: 1
+  ? - scare
+  : your: 1
+  ? - pirates
+  : seized: 1
+  ? - day
+  : and: 1
+    like: 1
+    for: 1
+  ? - twelfth
+  : of: 1
+  ? - sign
+  : painted: 1
+  ? - rust
+  : while: 1
+  ? - it
+  : unfit: 1
+    will: 2
+    "burn,": 1
+    against: 1
+    in: 1
+    settle.: 1
+    in.: 1
+    down.: 1
+    the: 1
+    "away,": 1
+    up: 1
+    ring: 1
+    gives: 1
+    from: 1
+    is: 1
+    there.: 1
+    slow!y: 1
+  ? - arrived
+  : in: 1
+  ? - Lire
+  : wires: 1
+  ? - freeze
+  : when: 1
+    water.: 1
+  ? - up
+  : for: 1
+    to: 2
+    more: 1
+    the: 3
+    spilled: 1
+    and: 2
+  ? - sheath.
+  : ~: 1
+  ? - nose
+  : his: 1
+  ? - sad.
+  : ~: 2
+  ? - we
+  : need: 1
+    pile: 1
+    ought: 1
+    stood: 1
+    sing: 1
+    sat: 1
+    must: 1
+    have: 1
+  ? - stories
+  : make: 1
+    is: 1
+  ? - fern
+  : grow: 1
+  ? - tumbled
+  : into: 1
+  ? - store.
+  : ~: 2
+  ? - former
+  : friends.: 1
+  ? - northward.
+  : ~: 1
+  ? - Main
+  : Street.: 1
+  ? - ties
+  : with: 1
+  ? - children.
+  : ~: 1
+  ? - away.
+  : ~: 1
+  ? - trout
+  : and: 1
+  ? - matter.
+  : ~: 1
+  ? - Many
+  : hands: 1
+  ? - fury
+  : ~: 1
+  ? - bark
+  : of: 1
+  ? - owed
+  : his: 1
+  ? - ball
+  : straight: 1
+  ? - with
+  : heavy: 1
+    clips.: 1
+    hard: 1
+    firm: 1
+    chicken: 1
+    any: 1
+    a: 16
+    your: 2
+    groups: 1
+    woven: 1
+    fine: 1
+    requests: 1
+    ham.: 1
+    age.: 1
+    dew.: 1
+    this: 1
+    sticky: 2
+    these: 1
+    much: 1
+    ice: 1
+    care: 1
+    bright: 1
+    black: 1
+    s: 1
+    "zest,": 1
+    strong: 1
+    great: 1
+    colored: 1
+    old: 1
+    the: 4
+    orange: 1
+  ? - scarcer
+  : than: 1
+  ? - lofty
+  : rocks.: 1
+  ? - troops
+  : are: 1
+  ? - flower
+  : seeds.: 1
+  ? - these
+  : natives.: 1
+    three.: 1
+    pills.: 1
+    words: 1
+    things.: 1
+    orders: 1
+  ? - began
+  : as: 1
+    to: 1
+  ? - league
+  : met: 1
+  ? - tan.
+  : ~: 2
+  ? - inches.
+  : ~: 1
+  ? - Better
+  : hash: 1
+  ? - speaks
+  : is: 1
+  ? - paw
+  : in: 1
+  ? - coffee
+  : stand: 1
+  ? - house.
+  : ~: 2
+  ? - Heave
+  : the: 1
+  ? - rate
+  : extra: 1
+  ? - mailed
+  : promptly: 1
+  ? - spring
+  : corn.: 1
+    makes: 1
+    grass.: 1
+  ? - vase
+  : is: 1
+  ? - team
+  : with: 1
+  ? - stable.
+  : ~: 1
+  ? - coach.
+  : ~: 1
+  ? - collar.
+  : ~: 1
+  ? - Both
+  : lost: 1
+    brothers: 1
+  ? - back
+  : and: 1
+    of: 1
+    to: 1
+    each: 1
+    kept: 1
+  ? - wharf
+  : could: 1
+  ? - cents
+  : "on": 1
+  ? - heat
+  : to: 1
+    of: 1
+  ? - Beat
+  : the: 1
+  ? - walk
+  : the: 1
+  ? - pay.
+  : ~: 1
+  ? - bell
+  : rang.: 1
+    rings: 1
+  ? - draft
+  : to: 1
+  ? - Wipe
+  : the: 1
+  ? - In
+  : some: 1
+    the: 1
+  ? - strength.
+  : ~: 1
+  ? - tool
+  : used: 1
+  ? - fig
+  : tree: 1
+  ? - "queen's"
+  : table.: 1
+  ? - costly
+  : gifts.: 1
+  ? - have
+  : a: 1
+    fun.: 1
+    curls.: 1
+    all: 1
+    the: 1
+    is: 1
+  ? - Jump
+  : the: 1
+  ? - raw
+  : whiskey: 1
+  ? - task
+  : force.: 1
+  ? - cloth.
+  : ~: 1
+  ? - gate.
+  : ~: 1
+  ? - teach
+  : charm: 1
+  ? - hole.
+  : ~: 2
+  ? - Fine
+  : soap: 1
+  ? - short
+  : of: 1
+    stories: 1
+    errand.: 1
+  ? - three
+  : story: 1
+    lists: 1
+    inches: 1
+    batches: 1
+  ? - win
+  : the: 1
+    a: 1
+  ? - fizz
+  : drinks.: 1
+  ? - boy.
+  : ~: 1
+  ? - packed
+  : to: 1
+  ? - Tear
+  : a: 1
+  ? - stalk
+  : of: 1
+  ? - method
+  : is: 1
+  ? - "hit,"
+  : the: 1
+  ? - wore
+  : a: 1
+  ? - point
+  : of: 1
+    into: 1
+  ? - firmly
+  : in: 1
+  ? - An
+  : abrupt: 1
+  ? - sums.
+  : ~: 1
+  ? - sticks.
+  : ~: 1
+  ? - blue
+  : crane: 1
+    sweater: 1
+    air.: 1
+    background.: 1
+    fish: 1
+    or: 1
+  ? - That
+  : move: 1
+    guy: 1
+  ? - dance
+  : they: 1
+  ? - fun.
+  : ~: 3
+  ? - game
+  : is: 1
+  ? - pod
+  : is: 1
+  ? - truck.
+  : ~: 1
+  ? - rug.
+  : ~: 1
+  ? - flame.
+  : ~: 2
+  ? - What
+  : joy: 1
+  ? - got
+  : the: 1
+    done.: 1
+  ? - boards.
+  : ~: 1
+  ? - note
+  : can: 1
+    to: 1
+  ? - balance.
+  : ~: 1
+  ? - brothers
+  : wear: 1
+  ? - response.
+  : ~: 1
+  ? - beach
+  : is: 1
+  ? - vent
+  : near: 1
+  ? - "zest,"
+  : but: 1
+  ? - time
+  : they: 1
+    for: 1
+  ? - trash.
+  : ~: 1
+  ? - large
+  : house: 1
+    amounts: 1
+    passage.: 1
+    parts.: 1
+    and: 1
+  ? - leaf
+  : drifts: 1
+  ? - dark.
+  : ~: 1
+  ? - soap
+  : "on": 1
+    saves: 1
+  ? - creek
+  : cut: 1
+  ? - his
+  : right: 1
+    mouth.: 1
+    dirty: 1
+    name: 2
+    horse: 1
+    white: 1
+    ties: 1
+    old: 1
+    way: 1
+    tired: 1
+    case.: 1
+    pal: 1
+    debt.: 1
+    felt: 1
+    score: 1
+    coat: 1
+    tender: 1
+    low: 1
+    last: 2
+    head: 1
+  ? - rude
+  : laugh: 1
+  ? - ashes
+  : "on": 1
+  ? - honest
+  : men: 1
+  ? - paper
+  : brightened: 1
+    bag.: 1
+    cup: 1
+    box: 1
+  ? - coal
+  : high: 1
+  ? - beauty
+  : of: 1
+  ? - Mark
+  : the: 1
+  ? - lease
+  : ran: 1
+  ? - blow
+  : to: 1
+  ? - tight.
+  : ~: 1
+  ? - freed
+  : the: 1
+  ? - loud
+  : for: 1
+    crash.: 1
+    and: 1
+  ? - barrel
+  : of: 1
+  ? - tar.
+  : ~: 1
+  ? - "No"
+  : hardship: 1
+    doubt: 1
+    cement: 1
+  ? - "quick,"
+  : sharp: 1
+  ? - screen
+  : before: 1
+  ? - smell
+  : of: 2
+    is: 1
+    the: 1
+  ? - streets
+  : are: 1
+  ? - settle.
+  : ~: 1
+  ? - became
+  : heir: 1
+  ? - cape
+  : as: 1
+  ? - van.
+  : ~: 1
+  ? - led
+  : home: 1
+    up: 1
+  ? - horn
+  : of: 1
+  ? - Mesh
+  : wire: 1
+  ? - may
+  : stain: 1
+    scare: 1
+    forget: 1
+  ? - wild
+  : mob.: 1
+    tales: 1
+  ? - designed
+  : will: 1
+  ? - size
+  : of: 1
+    in: 1
+  ? - wire
+  : keeps: 1
+  ? - early
+  : days.: 1
+    and: 1
+    phase: 1
+  ? - Note
+  : closely: 1
+  ? - heart
+  : beat: 1
+  ? - Glass
+  : will: 1
+  ? - stain
+  : your: 1
+    dried: 1
+    was: 1
+  ? - fight
+  : will: 1
+  ? - castle
+  : built: 1
+  ? - four
+  : kinds: 1
+  ? - inn.
+  : ~: 1
+  ? - air.
+  : ~: 4
+  ? - a
+  : young: 1
+    dish: 1
+    rare: 1
+    nail.: 1
+    bear.: 1
+    ten.: 1
+    tight: 1
+    lsrge: 1
+    neat: 2
+    "queen's": 1
+    sharp: 1
+    cat: 1
+    bad: 2
+    strong: 3
+    feather: 1
+    fair: 1
+    wild: 1
+    band: 1
+    loud: 1
+    person: 1
+    head: 1
+    blow: 1
+    thin: 3
+    sign: 1
+    door: 1
+    book.: 1
+    good: 4
+    "quick,": 1
+    pine: 1
+    rosebush: 1
+    new: 2
+    buyer: 1
+    lag: 1
+    second: 1
+    button: 1
+    day: 1
+    "dime,": 1
+    watchful: 1
+    sweet: 1
+    long: 2
+    pleasant: 1
+    drenching: 1
+    wooden: 1
+    source: 1
+    limb.: 1
+    vest: 1
+    flood.: 1
+    lot: 1
+    white: 1
+    quick: 1
+    draft: 1
+    chicken: 1
+    sleek: 1
+    chance: 1
+    bright: 1
+    "king's": 1
+    smooth: 1
+    mass: 1
+    fire.: 1
+    thick: 1
+    slow: 1
+    tool: 1
+    bump: 1
+    just: 1
+    graceful: 1
+    compass.: 1
+    silver: 1
+    blue: 1
+    pierced: 1
+    hot: 1
+    fig: 1
+    crooked: 1
+    big: 1
+    dense: 1
+    year.: 1
+    fight.: 1
+    nice: 1
+    deep: 1
+    hole: 2
+    grand: 1
+    weed: 1
+    pencil: 1
+    tall: 1
+    frog: 1
+    well.: 1
+    bucket.: 1
+    high: 1
+    brew: 1
+    cold: 1
+    sound: 1
+    short: 1
+    flop: 1
+    swell: 1
+    shaggy: 1
+    stately: 1
+    china: 1
+    large: 1
+    few: 2
+    crash.: 1
+    food: 1
+    dog.: 1
+    gold: 1
+    steady: 1
+    swim.: 1
+    "swan,": 1
+    brisk: 1
+    dull: 1
+    mouldy: 1
+    brown: 1
+    rusty: 1
+    great: 1
+    card: 1
+    knife.: 1
+    fine: 2
+    feline: 1
+    fond: 1
+  ? - Pink
+  : clouds: 1
+  ? - feather
+  : in: 1
+  ? - deeply
+  : into: 1
+  ? - nice
+  : pet.: 1
+  ? - seats
+  : are: 1
+  ? - seems
+  : dull: 1
+    to: 1
+  ? - here
+  : later.: 1
+    and: 1
+  ? - crooked
+  : maze: 1
+    stick.: 1
+  ? - painted
+  : red.: 1
+    tan.: 1
+  ? - trim
+  : her: 1
+  ? - needed
+  : to: 2
+    a: 1
+  ? - hope.
+  : ~: 1
+  ? - turkey.
+  : ~: 1
+  ? - noon.
+  : ~: 1
+  ? - used
+  : the: 1
+    to: 4
+    in: 1
+    for: 1
+    when: 1
+    paper: 1
+  ? - flat
+  : pack: 1
+    and: 1
+  ? - answer
+  : that: 1
+  ? - fond
+  : note: 1
+  ? - good.
+  : ~: 1
+  ? - move
+  : the: 1
+    means: 1
+  ? - life
+  : moves: 1
+  ? - Mend
+  : the: 1
+  ? - health
+  : and: 1
+  ? - mail
+  : comes: 1
+  ? - jerked
+  : the: 1
+  ? - watched
+  : the: 1
+  ? - evening.
+  : ~: 1
+  ? - war
+  : is: 1
+  ? - cent.
+  : ~: 1
+  ? - turf.
+  : ~: 1
+  ? - couch
+  : cover: 1
+  ? - fired.
+  : ~: 1
+  ? - frocks.
+  : ~: 1
+  ? - lame
+  : back: 1
+  ? - vamp
+  : of: 1
+  ? - paid
+  : every: 1
+  ? - pedal
+  : with: 1
+  ? - throne.
+  : ~: 1
+  ? - strong
+  : statement.: 1
+    arm: 1
+    defense.: 1
+    and: 1
+    drink.: 1
+    wine: 1
+    but: 1
+    bid: 1
+    contents.: 1
+    chance: 1
+  ? - today
+  : at: 1
+  ? - seven
+  : books: 1
+    is: 1
+  ? - absent
+  : from: 1
+  ? - floor.
+  : ~: 3
+  ? - rang
+  : loud: 1
+  ? - crash.
+  : ~: 2
+  ? - aim
+  : of: 1
+  ? - Paste
+  : can: 1
+  ? - raft
+  : to: 1
+  ? - A
+  : big: 1
+    round: 2
+    quart: 1
+    tame: 1
+    young: 1
+    cramp: 1
+    rag: 1
+    lathe: 1
+    gray: 1
+    tusk: 1
+    smatter: 1
+    thing: 1
+    saw: 1
+    rod: 1
+    stiff: 1
+    pot: 1
+    blue: 1
+    pink: 1
+    fence: 1
+    fresh: 1
+    gold: 1
+    sullen: 1
+    salt: 1
+    small: 1
+    yacht: 1
+    wisp: 1
+    zestful: 1
+    plea: 1
+    severe: 1
+    pound: 1
+    "child's": 1
+    speedy: 1
+    brown: 1
+    streak: 1
+    man: 1
+    filing: 1
+    rich: 1
+    vent: 1
+    strong: 1
+    steep: 1
+    pencil: 1
+    clean: 1
+    stuffed: 1
+    flat: 1
+    siege: 1
+    sash: 1
+    chink: 1
+    force: 1
+    six: 1
+    pod: 1
+    toad: 1
+    joy: 1
+    thin: 2
+    bowl: 1
+    lame: 1
+    white: 1
+    cup: 1
+    king: 1
+    waxed: 1
+    gem: 1
+    cold: 1
+    fur: 1
+    shower: 1
+    whiff: 1
+    castle: 1
+    ripe: 1
+    thick: 1
+    cruise: 1
+    dash: 1
+    break: 1
+  ? - hate
+  : the: 1
+  ? - player
+  : scoot: 1
+  ? - left
+  : and: 1
+    edge.: 1
+    shoulder.: 1
+    the: 2
+    most: 1
+    foot.: 1
+  ? - phone
+  : rang: 1
+  ? - clips.
+  : ~: 1
+  ? - screen.
+  : ~: 1
+  ? - slipped
+  : into: 1
+    from: 1
+  ? - lag
+  : between: 1
+  ? - pickles
+  : are: 1
+  ? - heroes.
+  : ~: 1
+  ? - urge
+  : to: 1
+  ? - hung
+  : in: 2
+    inside: 1
+    from: 1
+    limp.: 1
+    "on": 1
+  ? - heir
+  : to: 1
+  ? - relax
+  : in: 1
+  ? - stick.
+  : ~: 2
+  ? - cartridge
+  : into: 1
+  ? - Light
+  : maple: 1
+  ? - old.
+  : ~: 1
+  ? - tunes
+  : at: 1
+  ? - worm
+  : gets: 1
+  ? - silk
+  : jacket: 1
+    will: 1
+  ? - joy
+  : to: 1
+    there: 1
+    in: 1
+  ? - shares
+  : as: 1
+  ? - twine
+  : with: 1
+  ? - child
+  : should: 1
+    almost: 1
+    crawled: 1
+    is: 1
+  ? - wake
+  : her: 1
+  ? - pleasure.
+  : ~: 1
+  ? - barn
+  : fell: 1
+    door: 1
+  ? - cork
+  : target.: 1
+  ? - grease
+  : "off": 1
+  ? - played
+  : "on": 1
+  ? - graceful
+  : way.: 1
+  ? - rose.
+  : ~: 1
+  ? - sock.
+  : ~: 1
+  ? - wreck
+  : occurred: 1
+  ? - chair
+  : looked: 1
+    slipped: 1
+    leaned: 1
+  ? - hind
+  : paw: 1
+  ? - natives.
+  : ~: 1
+  ? - storm
+  : tore: 1
+  ? - replace
+  : the: 1
+  ? - hear.
+  : ~: 1
+  ? - Brass
+  : rings: 1
+  ? - batches
+  : per: 1
+  ? - jacket
+  : hung: 1
+    goes: 1
+  ? - See
+  : the: 2
+  ? - Two
+  : plus: 1
+    blue: 1
+  ? - rows
+  : of: 1
+  ? - nozzle
+  : of: 1
+  ? - Twist
+  : the: 1
+  ? - counted
+  : his: 1
+  ? - chap
+  : slipped: 1
+  ? - lawn.
+  : ~: 3
+  ? - worst
+  : will: 1
+  ? - sound
+  : and: 1
+    of: 1
+  ? - ridge
+  : "on": 1
+  ? - others
+  : what: 1
+  ? - Sit
+  : "on": 1
+  ? - rag
+  : will: 1
+  ? - piny
+  : air.: 1
+  ? - slow
+  : spin.: 1
+  ? - Dunk
+  : the: 1
+  ? - tube
+  : was: 1
+    circled: 1
+  ? - knee
+  : of: 1
+  ? - youth
+  : drove: 1
+  ? - sound.
+  : ~: 2
+  ? - Say
+  : it: 1
+  ? - moved
+  : it.: 1
+    a: 1
+    in: 1
+    "on": 1
+  ? - tell
+  : the: 2
+    are: 1
+    apart.: 1
+  ? - lazy
+  : cow: 1
+  ? - filing
+  : case: 1
+  ? - closet.
+  : ~: 1
+  ? - is
+  : rare.: 1
+    fit: 1
+    carved: 1
+    late: 1
+    better: 2
+    often: 1
+    what: 1
+    scarcer: 1
+    a: 13
+    seen: 1
+    free: 1
+    the: 10
+    time: 1
+    to: 3
+    fun.: 1
+    red: 1
+    bad.: 1
+    soft: 1
+    dry: 1
+    now: 1
+    worse: 2
+    in: 1
+    less: 1
+    water: 1
+    made: 1
+    pure.: 1
+    apple-shaped.: 1
+    tinged: 1
+    "no": 1
+    stylish: 1
+    tasty.: 1
+    easy: 1
+    over.: 1
+    full: 1
+    used: 4
+    too: 1
+    held: 1
+    "scarce,": 1
+    booze.: 1
+    not: 1
+    enough.: 1
+    rare: 1
+    best: 1
+    true.: 1
+    painful: 1
+    ten: 1
+    needed: 1
+    fair: 1
+    both: 1
+    right.: 1
+    hard: 2
+    strong: 1
+  ? - burns
+  : holes: 1
+  ? - changes.
+  : ~: 1
+  ? - North
+  : winds: 1
+  ? - life.
+  : ~: 1
+  ? - clink
+  : when: 1
+  ? - he
+  : needs: 1
+    lived: 1
+    gave: 1
+    took: 1
+    speaks: 1
+    tried: 1
+    moved: 1
+    got: 1
+    reads: 1
+    saw: 1
+  ? - dirty
+  : face.: 1
+    brass.: 1
+  ? - dog.
+  : ~: 3
+  ? - Lush
+  : fern: 1
+  ? - chance
+  : and: 1
+    it: 1
+  ? - Soap
+  : can: 1
+  ? - struck
+  : the: 1
+    to: 1
+    by: 1
+    doubt: 1
+  ? - tame
+  : squirrel: 1
+  ? - outside.
+  : ~: 1
+  ? - Birth
+  : and: 1
+  ? - preserve
+  : their: 1
+  ? - shipping.
+  : ~: 1
+  ? - pin
+  : was: 1
+  ? - These
+  : days: 1
+    coins: 1
+    pills: 1
+    thistles: 1
+  ? - factors
+  : here.: 1
+  ? - gay
+  : "on": 1
+    when: 1
+  ? - board
+  : will: 1
+  ? - leather
+  : bag: 1
+  ? - Weave
+  : the: 1
+  ? - writes
+  : best.: 1
+  ? - "away,"
+  : ~: 1
+  ? - trunk
+  : fell: 1
+  ? - just
+  : six: 1
+    what: 1
+    claim: 1
+    cause: 1
+  ? - moving
+  : van.: 1
+  ? - gun
+  : and: 1
+  ? - pup
+  : gnawed: 1
+    jerked: 1
+  ? - ii
+  : cloud: 1
+  ? - trail
+  : is: 1
+  ? - prince
+  : became: 1
+    ordered: 1
+  ? - other.
+  : ~: 1
+  ? - flask
+  : stood: 1
+  ? - there
+  : when: 1
+    at: 1
+    is: 1
+  ? - stone
+  : wall.: 1
+    floor.: 1
+    over: 1
+  ? - please
+  : answer: 1
+    most: 1
+  ? - Women
+  : form: 1
+  ? - curls
+  : get: 1
+  ? - steel
+  : three: 1
+    pen: 1
+  ? - hip
+  : struck: 1
+  ? - antique
+  : clock.: 1
+  ? - spend
+  : much.: 1
+  ? - matters
+  : not: 1
+  ? - ledge.
+  : ~: 1
+  ? - reads
+  : these: 1
+  ? - write.
+  : ~: 1
+  ? - JTith
+  : the: 1
+  ? - abrupt
+  : start: 1
+  ? - Prod
+  : the: 1
+  ? - Eight
+  : miles: 1
+  ? - fail
+  : where: 1
+    without: 1
+  ? - glass.
+  : ~: 1
+  ? - start.
+  : ~: 2
+  ? - daily.
+  : ~: 1
+  ? - shallow
+  : at: 1
+  ? - better
+  : than: 3
+  ? - stunned
+  : the: 1
+  ? - frail
+  : cart: 1
+  ? - fund.
+  : ~: 1
+  ? - walnut
+  : with: 1
+  ? - jump
+  : or: 1
+  ? - leads
+  : to: 1
+  ? - French
+  : is: 1
+  ? - its
+  : bright: 1
+    contents.: 1
+    hind: 1
+    peak: 1
+    round: 1
+    way: 1
+    strap.: 1
+  ? - Small
+  : children: 1
+  ? - logs
+  : fell: 1
+    give: 1
+  ? - eaten
+  : by: 1
+  ? - glasses
+  : cracked: 1
+    helped: 1
+  ? - Shut
+  : the: 1
+  ? - hours
+  : of: 1
+    fly: 1
+  ? - head
+  : chopped: 1
+    from: 1
+  ? - hazy.
+  : ~: 1
+  ? - class.
+  : ~: 1
+  ? - puzzling
+  : to: 1
+  ? - dishes.
+  : ~: 1
+  ? - tore
+  : down: 1
+  ? - soak
+  : up: 1
+  ? - old
+  : age.: 1
+    wall: 1
+    beer: 1
+    pan: 1
+    market.: 1
+    coins.: 1
+    and: 1
+    house.: 1
+    people.: 1
+    mule: 1
+    rug.: 1
+  ? - rum
+  : to: 1
+  ? - cruise
+  : in: 1
+  ? - settle
+  : in: 1
+  ? - be
+  : seen: 1
+    shipped.: 1
+    shortened.: 1
+    kept: 1
+    sharp: 1
+    fun: 1
+    used: 1
+    needed: 1
+    lost.: 1
+    tilted: 1
+    turned: 1
+  ? - Grace
+  : makes: 1
+  ? - crowded
+  : with: 1
+  ? - dry.
+  : ~: 1
+  ? - much.
+  : ~: 1
+  ? - here.
+  : ~: 2
+  ? - level
+  : the: 1
+  ? - attic.
+  : ~: 1
+  ? - Fake
+  : "&ones": 1
+  ? - wood.
+  : ~: 3
+  ? - vest
+  : "on": 1
+  ? - pocket.
+  : ~: 1
+  ? - Get
+  : the: 1
+  ? - flashy
+  : but: 1
+  ? - beef
+  : stew.: 1
+  ? - grows
+  : "on": 1
+  ? - buckle.
+  : ~: 1
+  ? - doll.
+  : ~: 1
+  ? - also
+  : gives: 1
+  ? - high
+  : wall.: 1
+    fence.: 1
+    wind.: 2
+    for: 1
+    level: 1
+    tones: 1
+    scale.: 1
+    road: 1
+    in: 1
+  ? - walked
+  : before: 1
+  ? - screw
+  : straight: 1
+  ? - eggs
+  : and: 1
+  ? - mat.
+  : ~: 1
+  ? - Roads
+  : are: 1
+  ? - central
+  : part: 1
+  ? - product
+  : of: 1
+  ? - player.
+  : ~: 1
+  ? - would
+  : move: 1
+  ? - space
+  : stretched: 1
+  ? - past.
+  : the: 1
+  ? - do.
+  : ~: 1
+  ? - rod
+  : is: 1
+  ? - rob
+  : friends: 1
+  ? - ancient
+  : coin: 1
+  ? - sandy
+  : waste.: 1
+    beach.: 1
+  ? - despair.
+  : ~: 1
+  ? - sent
+  : the: 2
+  ? - rubbish
+  : up: 1
+  ? - lingers.
+  : ~: 1
+  ? - "Let's"
+  : all: 1
+  ? - covered
+  : with: 1
+    all.: 1
+  ? - rich
+  : farm: 1
+  ? - toys
+  : and: 1
+  ? - heap
+  : of: 1
+  ? - skin.
+  : ~: 1
+  ? - kind
+  : to: 1
+  ? - contents
+  : failed: 1
+  ? - smooth
+  : surface: 1
+    planks.: 1
+  ? - best.
+  : ~: 1
+  ? - tightly.
+  : ~: 1
+  ? - gathered
+  : "on": 1
+  ? - Tuck
+  : the: 1
+  ? - crop.
+  : ~: 1
+  ? - hammer
+  : near: 1
+  ? - mare
+  : walked: 1
+  ? - Wood
+  : is: 1
+  ? - results
+  : from: 1
+  ? - council
+  : to: 1
+  ? - pen
+  : was: 1
+  ? - when
+  : you: 2
+    cold: 1
+    wet.: 1
+    he: 2
+    struck: 1
+    events: 1
+    the: 4
+    secrets: 1
+  ? - lost.
+  : ~: 2
+  ? - stuff
+  : in: 1
+  ? - birth
+  : to: 1
+  ? - twin
+  : who: 1
+  ? - ways.
+  : ~: 1
+  ? - curled
+  : around: 1
+  ? - sail
+  : and: 1
+  ? - strive
+  : but: 1
+  ? - chicken
+  : stew.: 1
+    leg: 1
+  ? - trap.
+  : ~: 1
+  ? - Cod
+  : is: 1
+  ? - Their
+  : eyelids: 1
+  ? - pills.
+  : ~: 1
+  ? - wrote
+  : down: 1
+    his: 2
+  ? - power
+  : to: 1
+  ? - painful
+  : for: 1
+  ? - junk
+  : yard: 1
+  ? - "workmen's"
+  : head.: 1
+  ? - stale
+  : biscuits: 1
+    smell: 1
+  ? - Schools
+  : for: 1
+  ? - strongly
+  : and: 1
+  ? - wind.
+  : ~: 4
+  ? - age.
+  : ~: 2
+  ? - form.
+  : ~: 1
+  ? - told
+  : wild: 1
+  ? - want.
+  : of: 1
+  ? - helps
+  : to: 1
+  ? - north
+  : but: 1
+    shore.: 1
+  ? - football
+  : fans.: 1
+  ? - admire
+  : and: 1
+  ? - case.
+  : ~: 3
+  ? - Corn
+  : cobs: 1
+  ? - came
+  : up: 1
+    across: 1
+    early: 1
+    to: 1
+    in: 1
+  ? - rich.
+  : ~: 1
+  ? - Place
+  : a: 1
+  ? - brass.
+  : ~: 3
+  ? - lure
+  : is: 1
+  ? - score.
+  : ~: 1
+  ? - news
+  : struck: 1
+  ? - keep
+  : our: 1
+    still.: 1
+    him: 1
+  ? - amounts
+  : is: 1
+  ? - smell.
+  : ~: 1
+  ? - stems
+  : of: 1
+  ? - sea
+  : breeze: 1
+  ? - ordered
+  : his: 1
+    peach: 1
+  ? - mat
+  : will: 1
+  ? - steady
+  : green: 1
+    work: 1
+    drip: 1
+  ? - turned
+  : "on": 1
+    off.: 1
+  ? - barn.
+  : ~: 1
+  ? - cracked
+  : and: 2
+  ? - gang
+  : left: 1
+  ? - scratch.
+  : ~: 1
+  ? - "round,"
+  : "soft,": 1
+  ? - clock
+  : struck: 1
+  ? - sat
+  : frozen: 1
+    down.: 1
+    at: 1
+  ? - down
+  : "on": 1
+    a: 1
+    the: 4
+    from: 1
+  ? - Mud
+  : was: 1
+  ? - couch.
+  : ~: 1
+  ? - peas
+  : always: 1
+    ferment: 1
+  ? - "thirst,"
+  : then: 1
+  ? - club
+  : rented: 1
+  ? - sill
+  : of: 1
+  ? - sank
+  : deeply: 1
+  ? - death
+  : mark: 1
+  ? - been
+  : used.: 1
+  ? - us.
+  : ~: 2
+  ? - fit
+  : for: 2
+    the: 1
+  ? - gloss
+  : "on": 1
+  ? - dried
+  : "on": 2
+    when: 1
+  ? - crew
+  : of: 1
+  ? - Torn
+  : scraps: 1
+  ? - found
+  : at: 1
+    "on": 1
+    in: 1
+  ? - box
+  : flickered.: 1
+    tightly.: 1
+    held: 1
+    is: 2
+    into: 1
+    was: 1
+  ? - houses
+  : are: 1
+  ? - home
+  : the: 1
+    took: 1
+    by: 1
+  ? - Sickness
+  : kept: 1
+  ? - over
+  : the: 5
+  ? - month.
+  : ~: 2
+  ? - squirrel
+  : makes: 1
+  ? - rang.
+  : ~: 1
+  ? - wait
+  : and: 1
+  ? - tide.
+  : ~: 1
+  ? - then
+  : burn: 1
+    eat: 1
+    over.: 1
+  ? - Our
+  : troops: 1
+    plans: 1
+  ? - clean
+  : neck: 1
+    brass.: 1
+    but: 1
+  ? - names
+  : is: 1
+  ? - stiff
+  : cord: 1
+  ? - she
+  : parades: 1
+  ? - canoe
+  : slid: 1
+  ? - week.
+  : ~: 3
+  ? - "fast,"
+  : if: 1
+  ? - if
+  : he: 1
+    you: 1
+  ? - stew
+  : from: 1
+  ? - window.
+  : ~: 1
+  ? - rarest
+  : spice: 1
+  ? - grand
+  : season: 1
+  ? - third
+  : class.: 1
+    period.: 1
+    base.: 1
+    week.: 2
+    act: 1
+  ? - column
+  : and: 1
+  ? - little.
+  : ~: 1
+  ? - hardship
+  : seemed: 1
+  ? - sweet
+  : taste.: 1
+    fudge.: 1
+    girl.: 1
+  ? - meal
+  : was: 1
+  ? - cool
+  : grass.: 1
+    green: 1
+  ? - where
+  : the: 1
+    honest: 1
+  ? - people.
+  : ~: 1
+  ? - whiff
+  : of: 1
+  ? - failed
+  : to: 2
+  ? - gave
+  : her: 1
+    birth: 1
+    "no": 1
+  ? - shelves.
+  : ~: 1
+  ? - bid
+  : may: 1
+  ? - sticky
+  : tar.: 1
+    glue.: 1
+  ? - fleet.
+  : ~: 1
+  ? - rocks.
+  : ~: 1
+  ? - scraps
+  : littered: 1
+  ? - "boat,"
+  : to: 1
+  ? - Steam
+  : hissed: 1
+  ? - drifts.
+  : ~: 1
+  ? - straw
+  : mats.: 1
+    nest: 1
+    through: 1
+  ? - talked.
+  : ~: 1
+  ? - else
+  : the: 1
+  ? - reached
+  : its: 1
+  ? - thrive
+  : "on": 1
+  ? - money
+  : but: 1
+    is: 1
+  ? - pail
+  : to: 1
+    once: 1
+  ? - home.
+  : ~: 1
+  ? - Open
+  : the: 1
+    your: 1
+  ? - fires
+  : lack: 1
+  ? - funds
+  : seems: 1
+    reached: 1
+  ? - rare.
+  : ~: 1
+  ? - stretched
+  : for: 1
+    into: 1
+  ? - malt
+  : and: 1
+  ? - such
+  : matter.: 1
+    wonders.: 1
+  ? - jump.
+  : ~: 1
+  ? - neatly.
+  : ~: 1
+  ? - worse
+  : than: 2
+  ? - match
+  : and: 1
+  ? - ripe
+  : cherries.: 1
+    taste: 1
+    plum: 1
+  ? - lent
+  : his: 1
+  ? - smoky
+  : taste.: 1
+  ? - axe
+  : and: 1
+  ? - buyers.
+  : ~: 1
+  ? - Tuesday
+  : we: 1
+  ? - winding
+  : path: 1
+    road.: 1
+  ? - proof
+  : in: 1
+  ? - low.
+  : ~: 2
+  ? - "night,"
+  : and: 1
+  ? - fall.
+  : ~: 2
+  ? - clear
+  : and: 1
+    response.: 1
+    stream.: 1
+    spring.: 1
+    water.: 1
+    weather.: 1
+  ? - used.
+  : ~: 1
+  ? - oiled
+  : wheels.: 1
+  ? - warp
+  : unless: 1
+  ? - eyelids
+  : droop: 1
+  ? - gate
+  : needed: 1
+  ? - blushed
+  : when: 1
+  ? - Carry
+  : the: 1
+  ? - chink
+  : in: 1
+  ? - drug
+  : store.: 1
+  ? - siege
+  : will: 1
+  ? - board.
+  : ~: 1
+  ? - Four
+  : hours: 1
+  ? - coat.
+  : ~: 1
+  ? - Canned
+  : pears: 1
+  ? - "figs,"
+  : but: 1
+  ? - jangled
+  : by: 1
+  ? - parts
+  : of: 1
+  ? - Flax
+  : makes: 1
+  ? - hero
+  : to: 1
+  ? - cramp
+  : is: 1
+  ? - robbed
+  : last: 1
+  ? - face.
+  : ~: 1
+  ? - Burn
+  : peat: 1
+  ? - vote.
+  : ~: 1
+  ? - Code
+  : is: 1
+  ? - actress.
+  : ~: 1
+  ? - Pure
+  : bred: 1
+  ? - stalled
+  : in: 1
+  ? - figures.
+  : ~: 1
+  ? - serve.
+  : ~: 1
+  ? - informs
+  : of: 1
+  ? - mouldy
+  : smell.: 1
+  ? - bring
+  : colds: 1
+    out: 1
+  ? - tray
+  : across: 1
+  ? - fast
+  : leads: 1
+    music.: 1
+  ? - hewn
+  : from: 1
+  ? - Sunday
+  : is: 2
+  ? - poor
+  : boy: 1
+    thief.: 1
+  ? - wagon
+  : moved: 1
+  ? - turn.
+  : ~: 1
+  ? - by
+  : much: 1
+    metal.: 1
+    the: 2
+    green: 1
+    these: 1
+    "night,": 1
+    many: 1
+    a: 4
+    horse: 1
+  ? - kittens.
+  : ~: 1
+  ? - Yell
+  : and: 1
+  ? - cup
+  : cracked: 1
+    and: 1
+    of: 1
+  ? - jammed
+  : before: 1
+  ? - words
+  : work: 1
+    or: 1
+    were: 2
+  ? - nag
+  : pulled: 1
+  ? - Fruit
+  : flavors: 1
+  ? - maid
+  : to: 1
+  ? - creaked
+  : with: 1
+  ? - love
+  : a: 1
+  ? - hoist
+  : it: 1
+  ? - crack
+  : the: 1
+  ? - limp.
+  : ~: 1
+  ? - edge.
+  : ~: 1
+  ? - this
+  : office: 1
+    sandy: 1
+    is: 1
+    track: 1
+    well: 1
+    "tent,": 1
+    friendly: 1
+    book.: 1
+  ? - eggs.
+  : ~: 1
+  ? - tang
+  : in: 1
+  ? - far
+  : short: 1
+    distance.: 1
+    East.: 1
+  ? - served
+  : to: 1
+    from: 1
+    in: 1
+  ? - Much
+  : of: 1
+  ? - gone.
+  : ~: 2
+  ? - badly
+  : strained: 1
+  ? - looked
+  : stark: 1
+    strong: 1
+  ? - food
+  : eaten: 1
+    is: 1
+  ? - branches.
+  : ~: 1
+  ? - flounder.
+  : ~: 1
+  ? - blows.
+  : ~: 2
+  ? - ground.
+  : ~: 1
+  ? - paved
+  : with: 1
+  ? - wise
+  : chief.: 1
+  ? - spattered
+  : "on": 1
+  ? - per
+  : day.: 1
+  ? - apart.
+  : ~: 1
+  ? - noise
+  : started.: 1
+  ? - farther
+  : shore.: 1
+  ? - page.
+  : ~: 2
+  ? - looks
+  : good.: 1
+  ? - kindle
+  : a: 1
+  ? - petals
+  : fall: 1
+  ? - courage.
+  : ~: 1
+  ? - ink
+  : stain: 1
+    jar: 1
+  ? - add
+  : the: 1
+  ? - hops.
+  : ~: 1
+  ? - hatch
+  : tight: 1
+    before: 1
+  ? - sheep
+  : were: 1
+    while: 1
+  ? - weather
+  : of: 1
+  ? - sleek
+  : yacht: 1
+  ? - trod
+  : the: 1
+  ? - maps
+  : are: 1
+  ? - hail
+  : pattered: 1
+  ? - plush
+  : chair: 1
+  ? - necklace.
+  : ~: 1
+  ? - Tend
+  : the: 1
+  ? - aid
+  : of: 1
+  ? - spoils
+  : beef: 1
+  ? - flint
+  : sputtered: 1
+  ? - trinkets
+  : for: 1
+  ? - hardware
+  : store.: 1
+  ? - sand.
+  : ~: 1
+  ? - sewed
+  : the: 1
+  ? - shiny
+  : and: 1
+  ? - phrase
+  : he: 1
+    thirty: 1
+  ? - new
+  : shoelace: 1
+    is: 1
+    maid: 1
+    judge.: 1
+    girl: 1
+    guests: 1
+    base: 1
+    men.: 1
+  ? - Lift
+  : the: 1
+  ? - orders.
+  : ~: 1
+  ? - apple-shaped.
+  : ~: 1
+  ? - lay
+  : in: 1
+    prone: 1
+    deep: 1
+    beside: 1
+  ? - there.
+  : ~: 1
+  ? - "small,"
+  : "round,": 1
+  ? - moves
+  : fast.: 1
+  ? - bowl
+  : shone: 1
+    of: 1
+  ? - lobes
+  : of: 1
+  ? - fame
+  : of: 1
+  ? - order.
+  : ~: 1
+  ? - sold
+  : by: 1
+    fifty: 1
+  ? - pushed
+  : back: 1
+  ? - beef.
+  : ~: 1
+  ? - ship
+  : was: 2
+    arrived: 1
+    northward.: 1
+  ? - actor
+  : to: 1
+  ? - frighten
+  : him.: 1
+  ? - biscuits
+  : into: 1
+  ? - one
+  : war: 1
+    button: 1
+  ? - booth
+  : sold: 1
+  ? - dust
+  : are: 1
+    from: 2
+    stung: 1
+  ? - lonesome.
+  : ~: 1
+  ? - metal.
+  : ~: 1
+  ? - sausage
+  : thin: 1
+  ? - kinds
+  : of: 1
+  ? - caused
+  : a: 1
+  ? - pole.
+  : ~: 1
+  ? - brew
+  : tea: 1
+    of: 1
+  ? - square
+  : wooden: 1
+    stone: 1
+    peg: 1
+  ? - days
+  : a: 1
+  ? - pass
+  : the: 1
+  ? - into
+  : that: 1
+    block: 1
+    fine: 1
+    the: 10
+    strong: 1
+    restless: 1
+    large: 1
+    wine.: 1
+  ? - speedy
+  : man: 1
+  ? - "scarce,"
+  : so: 1
+  ? - coins.
+  : ~: 1
+  ? - colt.
+  : ~: 1
+  ? - shore.
+  : ~: 3
+  ? - Each
+  : penny: 1
+  ? - dim
+  : stage.: 1
+  ? - Leaves
+  : turn: 1
+  ? - full
+  : flavor.: 1
+    of: 3
+  ? - caught
+  : in: 1
+    its: 1
+  ? - doctor
+  : cured: 1
+  ? - while
+  : new.: 1
+    the: 1
+    they: 1
+    playing: 1
+  ? - Time
+  : brings: 1
+  ? - red.
+  : ~: 2
+  ? - Loop
+  : the: 1
+  ? - finish
+  : early.: 1
+    these.: 1
+  ? - Slide
+  : the: 3
+  ? - highway.
+  : ~: 1
+  ? - light
+  : in: 1
+    weight.: 1
+    the: 1
+    betrayed: 1
+  ? - comfort.
+  : ~: 1
+  ? - strained
+  : and: 1
+  ? - nail.
+  : ~: 2
+  ? - snapper.
+  : ~: 1
+  ? - Draw
+  : the: 1
+  ? - Send
+  : the: 1
+  ? - useless
+  : trash.: 1
+  ? - Turn
+  : "on": 1
+  ? - will
+  : do: 1
+    hold: 1
+    happen: 1
+    settle: 1
+    cover: 1
+    arrive: 1
+    end: 1
+    work: 1
+    warp: 1
+    be: 2
+    trim: 1
+    beat: 1
+    soak: 1
+    halt: 1
+    fit: 1
+    bind: 1
+    freeze: 1
+    dry: 1
+    clink: 1
+    cure: 1
+    collapse.: 1
+    serve: 1
+    please: 1
+    spread.: 1
+    crack: 1
+    lead: 1
+    nose: 1
+  ? - rays.
+  : ~: 1
+  ? - Gray
+  : paint: 1
+  ? - tired
+  : friend.: 1
+    the: 1
+    heroes.: 1
+  ? - Crack
+  : the: 1
+  ? - desk
+  : top.: 1
+    and: 1
+    was: 1
+  ? - compass.
+  : ~: 1
+  ? - in
+  : ruins.: 1
+    nets.: 1
+    two: 1
+    parts: 1
+    this: 3
+    to: 1
+    late: 1
+    round: 1
+    port.: 1
+    warm: 1
+    bare: 1
+    snow: 1
+    fizz: 1
+    place: 1
+    thin: 1
+    large: 1
+    which: 1
+    stockings: 1
+    a: 11
+    fresh: 1
+    just: 1
+    line.: 1
+    sixteen: 1
+    order.: 1
+    thick: 1
+    wool: 1
+    his: 2
+    the: 38
+    three: 1
+    salty: 1
+    living.: 1
+    cloth: 1
+  ? - Pour
+  : the: 1
+  ? - turn
+  : brown: 1
+  ? - train
+  : brought: 1
+  ? - boat.
+  : ~: 1
+  ? - must
+  : vote.: 1
+    suffice.: 1
+  ? - dish.
+  : ~: 1
+  ? - corn
+  : and: 1
+  ? - colored
+  : frocks.: 1
+  ? - cushion
+  : broke: 1
+    is: 1
+  ? - Footprints
+  : showed: 1
+  ? - was
+  : wide: 1
+    built: 1
+    "barred,": 1
+    jammed: 1
+    sharp: 1
+    done: 1
+    packed: 1
+    shiny: 1
+    bright: 1
+    kind: 1
+    crowded: 1
+    badly: 1
+    firm: 1
+    hung: 1
+    lost.: 1
+    worn: 1
+    ten: 1
+    puzzling: 1
+    made: 3
+    on.: 1
+    robbed: 1
+    covered: 1
+    there: 1
+    waiting: 1
+    hidden: 1
+    spattered: 1
+    found: 1
+    seen: 1
+    hard: 1
+    clean: 1
+    blown: 1
+    fired: 1
+    thrown: 1
+    torn: 1
+    full: 1
+    drilled: 1
+    brought: 1
+    cut: 2
+    clear: 1
+    "on": 2
+    pressed: 1
+    carved: 1
+    seized: 1
+    dull: 1
+    quite: 1
+    gone.: 2
+    clean.: 1
+    hewn: 1
+    cooked: 1
+    set: 1
+    the: 1
+    a: 7
+    bent: 1
+    far: 1
+    kept: 1
+  ? - room.
+  : ~: 2
+  ? - tusk
+  : is: 1
+  ? - beam
+  : dropped: 1
+  ? - ship.
+  : ~: 1
+  ? - leaned
+  : against: 1
+  ? - bag
+  : hung: 1
+  ? - makes
+  : good: 1
+    up: 1
+    us: 1
+    for: 1
+    fine: 1
+    sweet: 1
+    a: 2
+    young: 1
+  ? - strap.
+  : ~: 1
+  ? - pit
+  : with: 1
+  ? - sang
+  : the: 1
+  ? - unless
+  : kept: 1
+  ? - costly.
+  : ~: 1
+  ? - ways
+  : to: 1
+  ? - missed
+  : the: 1
+  ? - nothing.
+  : ~: 2
+  ? - had
+  : "no": 1
+    a: 2
+    an: 1
+    dried: 1
+    hot: 1
+  ? - If
+  : you: 1
+  ? - Float
+  : the: 1
+  ? - flavor.
+  : ~: 1
+  ? - hilt.
+  : of: 1
+  ? - Clams
+  : are: 1
+  ? - depth
+  : of: 1
+  ? - sent.
+  : ~: 1
+  ? - different
+  : from: 1
+  ? - hash
+  : is: 1
+  ? - sides.
+  : ~: 1
+  ? - shoes.
+  : ~: 1
+  ? - salty
+  : air.: 1
+  ? - parades
+  : the: 1
+  ? - rose
+  : lasts: 1
+    and: 1
+    from: 1
+    without: 1
+  ? - made
+  : its: 1
+    a: 1
+    for: 1
+    it: 1
+    by: 1
+    of: 2
+  ? - After
+  : the: 1
+  ? - Where
+  : were: 1
+  ? - graceful.
+  : ~: 1
+  ? - cried.
+  : ~: 1
+  ? - sing
+  : the: 1
+  ? - Fill
+  : your: 1
+    the: 1
+  ? - objects.
+  : ~: 1
+  ? - hurt
+  : the: 1
+  ? - frown
+  : when: 1
+  ? - done.
+  : ~: 2
+  ? - fifty
+  : bonds.: 1
+  ? - pins
+  : "on": 1
+    were: 1
+  ? - built
+  : from: 1
+    of: 2
+  ? - rug
+  : onto: 1
+  ? - price
+  : is: 1
+  ? - swell
+  : room.: 1
+  ? - enough.
+  : ~: 2
+  ? - at
+  : once.: 1
+    a: 3
+    once: 1
+    both: 1
+    low: 1
+    my: 1
+    all: 1
+    each: 1
+    the: 7
+    noon.: 1
+  ? - chased
+  : the: 1
+  ? - rum.
+  : ~: 1
+  ? - maple
+  : makes: 1
+  ? - shape.
+  : ~: 1
+  ? - twisted
+  : and: 1
+  ? - chair.
+  : ~: 1
+  ? - but
+  : stayed: 1
+    cost: 1
+    "don't": 1
+    seldom: 1
+    needs: 1
+    kept: 1
+    wake: 1
+    we: 1
+    lack: 1
+    taste: 1
+    little: 1
+    had: 1
+    keep: 1
+    don’t: 1
+    one: 1
+    make: 1
+    failed.: 1
+    the: 1
+  ? - carved
+  : around: 1
+    with: 1
+    a: 1
+  ? - nasty
+  : words.: 1
+  ? - show
+  : with: 1
+    who: 1
+    was: 2
+    in: 1
+  ? - office
+  : each: 1
+    paint: 1
+    wall.: 1
+  ? - "on"
+  : time.: 1
+    tender: 1
+    a: 5
+    fire: 1
+    rainy: 1
+    fire.: 1
+    well: 1
+    as: 1
+    the: 33
+    this: 1
+    these: 1
+    Main: 1
+    great: 1
+    each: 3
+    Mondays.: 1
+    while: 1
+    top: 3
+  ? - rags
+  : itches: 1
+  ? - "shoes,"
+  : stranger.: 1
+  ? - book
+  : fits: 1
+    to: 1
+    informs: 1
+  ? - house
+  : had: 1
+    was: 2
+  ? - feet
+  : in: 1
+  ? - mails
+  : with: 1
+  ? - time.
+  : ~: 2
+  ? - slab
+  : was: 1
+  ? - sun
+  : rose.: 1
+    their: 1
+    came: 1
+  ? - sparks.
+  : ~: 1
+  ? - red
+  : apple: 1
+    tape: 1
+    and: 1
+    clay: 1
+    paper: 1
+    hot: 1
+    snapper.: 1
+    ink.: 1
+    neon: 1
+  ? - waste
+  : little: 1
+  ? - hardly
+  : moved: 1
+  ? - cobs
+  : can: 1
+  ? - plant
+  : grew: 1
+    the: 1
+  ? - sell.
+  : ~: 1
+  ? - bottom.
+  : ~: 1
+  ? - clan
+  : gathered: 1
+  ? - rings
+  : are: 1
+    weakly.: 1
+  ? - fair
+  : for: 1
+    profit.: 1
+  ? - thistles
+  : bend: 1
+  ? - Tuesday.
+  : ~: 1
+  ? - fun
+  : to: 1
+  ? - tank.
+  : ~: 2
+  ? - "child's"
+  : wit: 1
+  ? - pay
+  : his: 1
+  ? - pattered
+  : "on": 1
+  ? - background.
+  : ~: 1
+  ? - wooden
+  : stick.: 1
+    crate: 1
+    rack.: 1
+  ? - cherries.
+  : ~: 1
+  ? - chicks
+  : inside.: 1
+  ? - beetle
+  : droned: 1
+  ? - dam
+  : almost: 1
+  ? - pet.
+  : ~: 1
+  ? - court
+  : decide: 1
+  ? - peddler
+  : cried.: 1
+  ? - music
+  : played: 1
+  ? - sip
+  : of: 1
+  ? - "On"
+  : the: 1
+  ? - held
+  : by: 1
+    priceless: 1
+  ? - The
+  : hitch: 1
+    bank: 1
+    ancient: 1
+    ram: 1
+    friendly: 1
+    stray: 1
+    little: 1
+    cup: 1
+    latch: 1
+    mule: 1
+    salt: 1
+    term: 1
+    bombs: 1
+    vane: 1
+    bunch: 1
+    long: 1
+    box: 2
+    cement: 1
+    blind: 1
+    three: 1
+    plush: 1
+    thaw: 1
+    dirt: 1
+    barrel: 1
+    cigar: 1
+    tube: 1
+    bills: 1
+    horn: 1
+    case: 1
+    wreck: 1
+    bloom: 1
+    sense: 1
+    clock: 1
+    walled: 1
+    cone: 1
+    goose: 1
+    nozzle: 1
+    night: 1
+    heap: 1
+    aim: 1
+    work: 1
+    knife: 1
+    peace: 1
+    pencils: 1
+    odor: 1
+    clan: 1
+    fish: 1
+    pennant: 1
+    new: 1
+    horse: 2
+    brown: 1
+    square: 2
+    water: 1
+    small: 2
+    dune: 1
+    hogs: 1
+    urge: 1
+    plant: 1
+    news: 1
+    price: 1
+    hilt.: 1
+    brass: 1
+    wagon: 1
+    ship: 1
+    cloud: 1
+    curtain: 1
+    frosty: 1
+    doorknob: 1
+    pup: 1
+    wharf: 1
+    quick: 1
+    point: 1
+    ripe: 1
+    pleasant: 1
+    fruit: 2
+    mute: 1
+    beam: 1
+    slang: 1
+    sun: 1
+    coffee: 1
+    old: 1
+    rush: 1
+    first: 2
+    tongs: 1
+    lease: 1
+    copper: 1
+    crunch: 1
+    straw: 1
+    duke: 1
+    wrist: 1
+    screen: 1
+    young: 3
+    bright: 1
+    spot: 1
+    large: 1
+    loss: 2
+    pencil: 1
+    cold: 1
+    Navy: 1
+    farmer: 1
+    lazy: 1
+    empty: 1
+    prince: 1
+    office: 1
+    sky: 2
+    roof: 1
+    lobes: 1
+    weight.: 1
+    soft: 1
+    youth: 1
+    fly: 1
+    chap: 1
+    line: 1
+    team: 1
+    pearl: 1
+    meal: 1
+    bill: 1
+    show: 1
+    hail: 1
+    dry: 1
+    stems: 1
+    kite: 2
+    vast: 1
+    drip: 1
+    early: 1
+    best: 1
+    stale: 1
+    fin: 1
+    lure: 1
+    tin: 1
+    wide: 1
+    smell: 1
+    fight: 1
+    tiny: 1
+    doctor: 1
+    pods: 1
+    glow: 1
+    lake: 1
+    good: 1
+    sand: 1
+    theft: 1
+    sheep: 1
+    idea: 1
+    gloss: 1
+    hog: 1
+    hinge: 1
+    hat: 1
+    rude: 1
+    ink: 1
+    girl: 1
+    train: 1
+    stitch: 1
+    set: 1
+    tree: 1
+    two: 1
+    list: 1
+    map: 1
+    man: 2
+    mail: 1
+    bark: 1
+    dark: 1
+    slush: 1
+    vamp: 1
+    key: 1
+    streets: 1
+    kitten: 1
+    steady: 1
+    wall: 1
+    beauty: 1
+    source: 1
+    paper: 1
+    logs: 1
+    poor: 1
+    purple: 1
+    rarest: 1
+    way: 1
+    fan: 1
+    third: 1
+    sofa: 1
+    chair: 1
+    colt: 1
+    hostess: 1
+    lawyer: 1
+    door: 1
+    room: 1
+    grass: 2
+    slab: 1
+    rope: 1
+    junk: 1
+    swan: 1
+    fur: 1
+    pot: 1
+    ramp: 1
+    green: 1
+    heart: 1
+    crooked: 1
+    just: 1
+    child: 2
+    pirates: 1
+    marsh: 1
+    beetle: 1
+    store: 2
+    boss: 1
+    petals: 1
+    clothes: 1
+    birch: 2
+    houses: 1
+    nag: 1
+    facts: 1
+    shelves: 1
+    big: 1
+    couch: 1
+    cleat: 1
+    club: 1
+    node: 1
+    zones: 1
+    rise: 1
+    boy: 2
+    harder: 1
+    lamp: 1
+    gold: 2
+    black: 1
+    play: 2
+    juice: 1
+    jacket: 1
+    red: 2
+    corner: 1
+    baby: 1
+    last: 1
+    shaky: 1
+    sip: 1
+    music: 1
+    pipe: 2
+    desk: 2
+    flint: 1
+    dusty: 1
+    leaf: 1
+    ridge: 1
+    beach: 1
+    sink: 1
+  ? - girl.
+  : ~: 2
+  ? - boat
+  : again.: 1
+  ? - get
+  : the: 1
+    much: 1
+    back: 1
+    limp: 1
+    rich.: 1
+  ? - pad.
+  : ~: 1
+  ? - wrist
+  : was: 1
+  ? - frozen
+  : and: 1
+  ? - partner
+  : stiff.: 1
+  ? - farm
+  : is: 1
+  ? - mouth.
+  : ~: 1
+  ? - apart
+  : "on": 1
+  ? - so
+  : write: 1
+  ? - sun.
+  : ~: 3
+  ? - salmon.
+  : ~: 1
+  ? - cheat
+  : buyers.: 1
+  ? - hose
+  : was: 1
+  ? - stayed
+  : aloft.: 1
+  ? - cover
+  : the: 1
+    and: 1
+  ? - foot.
+  : ~: 1
+  ? - pods
+  : of: 1
+  ? - oat
+  : crop.: 1
+  ? - Oats
+  : are: 1
+  ? - cat.
+  : ~: 2
+  ? - lake
+  : sparkled: 1
+  ? - smatter
+  : of: 1
+  ? - hogs
+  : were: 1
+  ? - their
+  : white: 1
+    strength.: 1
+    kids: 1
+    plans.: 1
+    lives: 1
+  ? - wax
+  : protects: 1
+  ? - salt
+  : breeze: 1
+    pickle: 1
+    before: 1
+  ? - lsrge
+  : chart.: 1
+  ? - pearl
+  : pin: 1
+    was: 1
+    necklace.: 1
+  ? - tile
+  : sheet.: 1
+  ? - drinks.
+  : ~: 1
+  ? - tasty.
+  : ~: 2
+  ? - ran
+  : out: 1
+    half: 1
+    almost: 1
+    down: 1
+    the: 1
+  ? - purse
+  : was: 1
+  ? - only
+  : a: 1
+    sound.: 1
+  ? - wine
+  : with: 1
+  ? - Rice
+  : is: 1
+  ? - field
+  : at: 1
+  ? - on.
+  : ~: 2
+  ? - flew
+  : wildly: 1
+  ? - writer
+  : of: 1
+  ? - dice
+  : for: 1
+  ? - flames
+  : will: 1
+  ? - tire
+  : flat: 1
+  ? - trust
+  : fund: 1
+  ? - of
+  : all: 1
+    a: 6
+    soldiers: 1
+    items.: 1
+    rice: 1
+    what: 1
+    rare: 1
+    tea: 2
+    spring: 1
+    malt: 1
+    carpet: 1
+    wearing: 1
+    good: 1
+    most: 1
+    cheese: 1
+    names: 1
+    sugar: 2
+    smell: 1
+    sleep.: 1
+    dirt: 1
+    sharp: 1
+    milk: 1
+    corn.: 1
+    bright: 1
+    life.: 1
+    perfect.: 1
+    beauty.: 1
+    wind.: 1
+    touch.: 1
+    gold: 1
+    marble.: 1
+    peas: 1
+    tile: 1
+    steady: 1
+    the: 49
+    fallen: 1
+    both: 1
+    office: 1
+    burned: 1
+    her: 1
+    old: 1
+    cats: 1
+    leaves: 1
+    rum.: 1
+    French: 1
+    dry: 1
+    town.: 1
+    stone.: 1
+    grapes: 1
+    these: 1
+    steel: 1
+    lemons: 1
+    former: 1
+    life: 1
+    it: 1
+    color: 1
+    thumb: 1
+    light: 2
+    wheat: 1
+    beer: 1
+    useless: 1
+    his: 1
+    woodland: 1
+    every: 1
+    cloud: 1
+    red: 1
+    pepper: 1
+    feet: 1
+    small: 1
+    slat’e.: 1
+    dust: 1
+    black: 1
+    china: 1
+    help: 1
+    orders.: 1
+    paper.: 1
+  ? - scared
+  : mouse.: 1
+    the: 1
+  ? - now.
+  : ~: 1
+  ? - journey
+  : home: 1
+  ? - allowed
+  : a: 1
+  ? - roll.
+  : ~: 1
+  ? - the
+  : screen.: 1
+    square: 1
+    sword: 1
+    tray: 1
+    "figs,": 1
+    side: 1
+    box: 2
+    court: 1
+    friend: 1
+    big: 2
+    old: 5
+    spot: 1
+    day: 1
+    oat: 1
+    low.: 1
+    drug: 1
+    others: 1
+    straw: 1
+    load: 1
+    other.: 1
+    rope: 1
+    shed: 1
+    vat: 1
+    sockets: 1
+    lantern: 1
+    far: 2
+    wind: 2
+    round: 4
+    "spark,": 1
+    whole: 1
+    snow: 1
+    crowd: 1
+    road.: 3
+    worst: 1
+    package: 1
+    next: 3
+    sparks.: 1
+    wise: 1
+    edge: 3
+    dog: 2
+    simplest: 1
+    rubbish: 1
+    window.: 1
+    used: 1
+    pedal: 1
+    clowns.: 1
+    rug: 1
+    gun: 1
+    knife.: 1
+    hard: 1
+    "neighbor's": 1
+    sandy: 1
+    last: 2
+    lost: 2
+    breeze.: 1
+    pants: 1
+    middle.: 1
+    dam: 1
+    pearl: 2
+    yellow: 1
+    smooth: 1
+    bell: 2
+    sweet: 1
+    soap: 1
+    weak: 2
+    records: 1
+    tired: 1
+    street.: 3
+    results: 1
+    "store's": 1
+    ink: 1
+    tailor: 1
+    fence.: 1
+    poor.: 1
+    braid: 1
+    ashes: 1
+    seven: 1
+    empty: 1
+    bike: 1
+    coat: 1
+    tropics.: 1
+    point: 1
+    stew: 1
+    dust: 2
+    ball: 1
+    weather: 1
+    length: 1
+    porch: 2
+    desk: 1
+    dull: 1
+    coin: 1
+    screw: 1
+    trust: 1
+    finished: 1
+    story: 1
+    vest.: 1
+    dance: 1
+    landing.: 1
+    tan: 1
+    lead: 1
+    beck: 1
+    lamp: 1
+    cork: 1
+    hole.: 1
+    moving: 1
+    barn.: 1
+    field.: 1
+    "boat,": 1
+    spring: 1
+    tall: 4
+    tank.: 1
+    blotter: 1
+    pot: 1
+    door: 2
+    wood.: 1
+    burnt: 1
+    saw: 1
+    debt.: 1
+    booth: 1
+    axe: 1
+    floor: 1
+    grease: 1
+    walnut: 1
+    same: 4
+    eyes: 1
+    stalk: 1
+    hardware: 1
+    logs: 1
+    sail: 1
+    oath: 1
+    product: 1
+    hammer: 1
+    twelfth: 1
+    size: 1
+    crackers.: 1
+    gas: 1
+    car: 1
+    poor: 1
+    sand.: 1
+    frail: 1
+    cat: 1
+    lawn.: 1
+    valve: 1
+    flood: 1
+    rusty: 1
+    sill: 1
+    view: 1
+    tent: 1
+    sheet: 2
+    school: 1
+    ditch.: 1
+    glass.: 1
+    writer: 1
+    slide: 1
+    public: 1
+    state: 1
+    piece: 1
+    bath: 1
+    very: 1
+    raft: 1
+    desk.: 2
+    water.: 1
+    odor.: 1
+    cool: 2
+    fifth: 1
+    kits: 1
+    wind.: 1
+    huge: 1
+    skill: 1
+    lathe: 1
+    clear: 3
+    plate.: 1
+    ripe: 1
+    path: 1
+    green: 1
+    mark.: 1
+    ice: 1
+    forest.: 1
+    central: 1
+    hatch: 2
+    pie: 1
+    perch: 1
+    main: 1
+    job: 1
+    eastern: 1
+    tin: 1
+    smuggled: 1
+    column: 1
+    brown: 2
+    finish.: 1
+    red: 1
+    contest: 1
+    wide: 3
+    stale: 1
+    ruins.: 1
+    rear: 1
+    boat: 1
+    board: 1
+    bank.: 1
+    sheep: 1
+    world: 1
+    gold.: 1
+    "sun's": 1
+    beach.: 1
+    throne.: 1
+    "workmen's": 1
+    earth.: 1
+    form: 1
+    sleeping: 2
+    islands: 1
+    worn: 2
+    salt.: 1
+    match: 1
+    fine: 1
+    wall.: 2
+    ground.: 1
+    sum: 2
+    fall.: 1
+    stream.: 1
+    heat: 1
+    catch: 1
+    horse: 1
+    aid: 1
+    leash: 1
+    torn: 1
+    corner: 2
+    bank: 2
+    couch.: 1
+    log: 2
+    shore.: 1
+    bond: 1
+    ledge.: 1
+    dice: 1
+    earth: 1
+    "man's": 1
+    contents: 1
+    lawyer: 1
+    lofty: 1
+    twine: 1
+    inn.: 1
+    broken: 1
+    soft: 1
+    lock.: 1
+    meter: 1
+    black: 1
+    rose: 1
+    best: 3
+    depth: 1
+    print.: 1
+    scared: 1
+    ground: 1
+    chart: 2
+    horn.: 1
+    only: 1
+    "bell,": 1
+    figures.: 1
+    new: 4
+    flames: 1
+    mouse.: 1
+    waves: 1
+    "cord,": 1
+    cruiser: 1
+    sock.: 1
+    circus.: 1
+    pine: 1
+    small: 1
+    cord: 1
+    strip: 1
+    bent: 1
+    front: 2
+    coat.: 1
+    crew: 1
+    dark: 2
+    fleet.: 1
+    week.: 1
+    winding: 2
+    month.: 2
+    dim: 1
+    twin: 1
+    clay: 1
+    woods: 1
+    edges: 1
+    first: 3
+    less: 1
+    attic.: 1
+    pail: 2
+    white: 1
+    two: 2
+    alarm: 1
+    second: 1
+    deep: 1
+    cue: 1
+    stuff: 1
+    rain: 1
+    sea.: 1
+    nail.: 1
+    west: 1
+    game: 1
+    noise: 1
+    boy: 2
+    third: 3
+    raging: 1
+    middle: 1
+    coal: 1
+    woman: 1
+    dart: 1
+    hot-cross: 1
+    plan: 1
+    farther: 1
+    cloth: 1
+    actor: 1
+    mantel: 1
+    line: 1
+    player: 1
+    punch: 1
+    watch: 1
+    left: 2
+    jar: 1
+    crate: 1
+    soldiers: 1
+    stable.: 1
+    field: 1
+    lake.: 1
+    pole: 1
+    bright: 1
+    sharp: 2
+    right: 2
+    high: 6
+    sausage: 1
+    way: 2
+    tenth: 1
+    northern: 1
+    pack.: 1
+    barn: 1
+    most: 3
+    base.: 1
+    treadmill: 1
+    curtain: 1
+    parked: 1
+    sea: 1
+    end: 2
+    back: 1
+    ship: 2
+    hot: 5
+    strong: 1
+    show: 2
+    group.: 1
+    great: 1
+    gold: 1
+    steel: 1
+    early: 1
+    limits: 1
+    painting.: 1
+    young: 2
+    bay.: 1
+    stone: 2
+    wall: 3
+    prize.: 1
+    shaky: 1
+    colt.: 1
+    port: 1
+    piny: 1
+    glass: 1
+    grain: 1
+    sale: 1
+    part: 1
+    top: 1
+    fire: 2
+    dense: 1
+    boys: 1
+    evening.: 1
+    swan: 1
+    players.: 1
+    mat.: 1
+    blue: 1
+    rink: 1
+    fence: 3
+    case.: 1
+    frost: 1
+    "net,": 1
+    council: 1
+    sun: 1
+    mails: 1
+    town: 1
+    thing: 1
+    tire: 1
+    knee: 1
+    egg.: 1
+    rough: 1
+    park: 1
+    pit: 1
+    thin: 1
+    north: 1
+    air: 1
+    carpet: 1
+    shoe: 1
+    bill: 1
+  ? - still.
+  : ~: 1
+  ? - inside.
+  : ~: 1
+  ? - seldom
+  : get: 1
+  ? - ink.
+  : ~: 2
+  ? - blind
+  : man: 1
+  ? - flavors
+  : are: 1
+  ? - lamb.
+  : ~: 1
+  ? - pack
+  : with: 1
+    takes: 1
+  ? - hidden
+  : from: 1
+  ? - hikes
+  : "on": 1
+  ? - phone.
+  : ~: 1
+  ? - shirt.
+  : ~: 2
+  ? - and
+  : zest.: 1
+    both: 1
+    dark.: 1
+    plan: 1
+    plunge: 1
+    bright: 1
+    tumbled: 1
+    take: 1
+    hope.: 1
+    you: 2
+    turned: 1
+    spilled: 1
+    lonesome.: 1
+    comfort.: 1
+    release: 1
+    with: 1
+    see: 1
+    tasty.: 1
+    a: 1
+    watch: 1
+    tea: 1
+    threw: 2
+    trims: 1
+    graceful.: 1
+    broke.: 1
+    smell: 1
+    busses: 1
+    twisted.: 1
+    hall: 1
+    death: 1
+    "swayed,": 1
+    "rise,": 1
+    swim: 1
+    not: 1
+    useless.: 1
+    cut: 1
+    worn.: 1
+    act.: 1
+    hops.: 1
+    strike: 1
+    relax: 1
+    hailed: 1
+    plate.: 1
+    step: 1
+    mild.: 1
+    slip: 1
+    dogs: 1
+    was: 2
+    leave: 1
+    hung: 1
+    green: 1
+    tack: 1
+    let: 1
+    win: 1
+    tired: 1
+    cart: 1
+    full: 1
+    heat.: 1
+    hardly: 1
+    lodging: 1
+    grace.: 1
+    man.: 1
+    tell: 1
+    then: 2
+    also: 1
+    shallow: 1
+    shrubs.: 1
+    phrase: 1
+    stare: 1
+    clap: 1
+    hurry: 1
+    of: 1
+    fevers.: 1
+    watched: 1
+    often.: 1
+    say: 1
+    follow: 1
+    yellow: 1
+    out: 1
+    love: 1
+    the: 7
+    freed: 1
+    night.: 1
+    drown: 1
+    quite: 1
+    fury: 1
+    flounder.: 1
+    lit: 1
+    water: 1
+    come: 1
+    sew: 1
+    pockets.: 1
+    put: 1
+    too: 1
+    kept: 1
+    wise.: 1
+    bolted: 1
+    sometimes: 1
+    fired.: 1
+    open: 1
+    costly.: 1
+    bushes: 1
+    swing: 1
+    steer: 1
+    don’t: 1
+    blocks.: 1
+    garbage.: 1
+    spill: 1
+  ? - "ice,"
+  : you: 1
+  ? - muffled
+  : the: 1
+  ? - woods
+  : to: 1
+  ? - "snowed,"
+  : "rained,": 1
+  ? - seeds.
+  : ~: 1
+  ? - most
+  : dirty: 1
+    dirt: 1
+    stubborn: 1
+    any: 1
+    part.: 1
+    of: 1
+    days.: 1
+  ? - "&ones"
+  : shine: 1
+  ? - what
+  : to: 1
+    the: 1
+    peas: 1
+    we: 1
+  ? - saved
+  : the: 1
+  ? - offered
+  : proof: 1
+  ? - park
+  : in: 1
+  ? - extra
+  : pay.: 1
+  ? - Oak
+  : is: 1
+  ? - braid
+  : to: 1
+  ? - come
+  : here: 1
+    again.: 1
+    it: 1
+    quickly.: 1
+  ? - place
+  : with: 1
+  ? - sheets.
+  : ~: 1
+  ? - switch
+  : cannot: 1
+  ? - error
+  : "on": 1
+  ? - bushes
+  : were: 1
+  ? - Bring
+  : your: 2
+  ? - Guess
+  : the: 1
+  ? - bank
+  : pressed: 1
+    early.: 1
+    "on": 1
+  ? - Ten
+  : pins: 1
+  ? - "pirate's"
+  : gold.: 1
+  ? - frosted
+  : the: 1
+  ? - step
+  : into: 1
+    more: 1
+  ? - miss
+  : the: 1
+  ? - walled
+  : town: 1
+  ? - fin
+  : was: 1
+  ? - apples
+  : may: 1
+  ? - pink
+  : salmon.: 1
+    shell: 1
+  ? - piles
+  : were: 1
+  ? - lose
+  : balance.: 1
+    his: 1
+  ? - second
+  : roll.: 1
+    ship: 1
+  ? - seemed
+  : to: 1
+  ? - tried
+  : to: 2
+    the: 1
+  ? - wine.
+  : ~: 1
+  ? - color
+  : ran: 1
+  ? - after
+  : the: 1
+  ? - port
+  : side.: 1
+  ? - juice
+  : of: 1
+    and: 1
+  ? - "boiled,"
+  : but: 1
+  ? - all.
+  : ~: 1
+  ? - prize.
+  : ~: 1
+  ? - timing
+  : looks: 1
+  ? - stuffed
+  : chair: 1
+  ? - collapse.
+  : ~: 1
+  ? - Pitch
+  : the: 1
+  ? - Kick
+  : the: 1
+  ? - silver
+  : coach.: 1
+    ring.: 1
+  ? - circus.
+  : ~: 1
+  ? - stung
+  : his: 1
+  ? - form
+  : of: 1
+    less: 1
+  ? - bath
+  : water.: 1
+  ? - slam.
+  : ~: 1
+  ? - waters
+  : in: 1
+  ? - round
+  : cap: 1
+    hole: 1
+    carpet.: 1
+    bowls.: 1
+    hole.: 1
+    mat: 1
+    blades: 1
+    block: 1
+  ? - friends
+  : deserve: 1
+  ? - Be
+  : sure: 1
+  ? - each
+  : time: 1
+    hate: 1
+    party.: 1
+    March.: 1
+    side.: 2
+    dull: 1
+  ? - stood
+  : "on": 1
+    in: 1
+    by: 1
+    beside: 1
+  ? - package
+  : was: 1
+  ? - Ducks
+  : fly: 1
+  ? - well.
+  : ~: 3
+  ? - tastes
+  : fine: 1
+  ? - fails
+  : to: 1
+  ? - field.
+  : ~: 1
+  ? - peach
+  : pie: 1
+  ? - shoelace
+  : that: 1
+  ? - trotted
+  : around: 1
+  ? - "It's"
+  : easy: 1
+    a: 1
+  ? - much
+  : care.: 1
+    money: 1
+    too: 1
+    courage.: 1
+  ? - sand
+  : fails: 1
+    drifts: 1
+  ? - shoe
+  : had: 1
+  ? - pot.
+  : ~: 1
+  ? - planks.
+  : ~: 1
+  ? - soft
+  : and: 1
+    cushion: 1
+    turf.: 1
+  ? - Let
+  : it: 1
+  ? - Calves
+  : thrive: 1
+  ? - friend
+  : you: 1
+  ? - stark
+  : white: 1
+  ? - swim
+  : off.: 1
+  ? - shipped.
+  : ~: 1
+  ? - tea
+  : in: 1
+    helps: 1
+    must: 1
+    revives: 1
+    and: 1
+  ? - curtain
+  : slides: 1
+    rose: 1
+  ? - Set
+  : the: 1
+  ? - drink
+  : from: 1
+  ? - filled
+  : the: 1
+  ? - always
+  : grow: 1
+    show: 1
+  ? - threw
+  : the: 2
+  ? - shield
+  : your: 1
+  ? - "bell,"
+  : come: 1
+  ? - egg.
+  : ~: 1
+  ? - night
+  : shift: 1
+    the: 1
+  ? - stamped
+  : "on": 1
+  ? - Slash
+  : the: 1
+  ? - fence
+  : cuts: 1
+    and: 2
+    post.: 1
+  ? - float
+  : in: 1
+  ? - cop.
+  : ~: 1
+  ? - whistling
+  : and: 1
+  ? - takes
+  : a: 2
+    luck.: 1
+    heat: 1
+    the: 1
+    less: 1
+  ? - state
+  : in: 1
+  ? - passed
+  : through: 1
+  ? - part
+  : of: 4
+  ? - rare
+  : dish.: 1
+    in: 1
+    beef.: 1
+    and: 1
+  ? - straight
+  : into: 1
+    from: 1
+    home.: 1
+    and: 1
+  ? - Farmers
+  : came: 1
+  ? - snip
+  : of: 1
+  ? - woke
+  : the: 1
+  ? - tie
+  : was: 1
+  ? - huge
+  : river: 1
+  ? - "tent,"
+  : but: 1
+  ? - done
+  : before: 1
+  ? - roused
+  : him: 1
+  ? - join
+  : was: 1
+    as: 1
+  ? - making
+  : toys: 1
+    boards.: 1
+  ? - men.
+  : ~: 1
+  ? - hard
+  : wood.: 1
+    fudge.: 1
+    tang: 1
+    to: 5
+    working: 1
+  ? - bind
+  : the: 1
+  ? - kitten
+  : chased: 1
+  ? - fur
+  : of: 1
+    muff: 1
+  ? - sockets
+  : in: 1
+  ? - Slidc
+  : the: 1
+  ? - best
+  : timing: 1
+    for: 2
+    method: 1
+    part: 1
+    compass: 1
+    brand: 1
+  ? - needed.
+  : ~: 1
+  ? - minds.
+  : ~: 1
+  ? - Whitings
+  : are: 1
+  ? - along.
+  : ~: 1
+  ? - bill
+  : between: 1
+    as: 1
+  ? - deepened
+  : in: 1
+  ? - living.
+  : ~: 1
+  ? - theft
+  : of: 1
+  ? - yacht
+  : slid: 1
+    is: 1
+  ? - him.
+  : ~: 3
+  ? - puts
+  : his: 1
+  ? - Feel
+  : the: 1
+  ? - dying
+  : flame.: 1
+  ? - Fly
+  : by: 1
+  ? - Smoky
+  : fires: 1
+  ? - from
+  : those: 1
+    sinking.: 1
+    a: 2
+    store: 1
+    all: 1
+    heavy: 1
+    your: 1
+    sand: 1
+    the: 17
+    its: 1
+    sight: 1
+    both: 1
+  ? - droop
+  : for: 1
+  ? - poodles
+  : have: 1
+  ? - walking
+  : on.: 1
+  ? - steep
+  : trail: 1
+  ? - strike
+  : it: 1
+    heavy: 1
+  ? - buyer
+  : at: 1
+  ? - sick
+  : old: 1
+  ? - space.
+  : ~: 2
+  ? - all
+  : such: 1
+    times.: 1
+    sides.: 1
+    been: 1
+    join: 1
+  ? - sullen
+  : smile: 1
+  ? - dune
+  : rose: 1
+  ? - gold.
+  : ~: 2
+  ? - which
+  : gives: 1
+    we: 1
+  ? - Sever
+  : the: 1
+  ? - goose
+  : was: 1
+  ? - crawled
+  : with: 1
+    into: 1
+    under: 1
+  ? - "swayed,"
+  : but: 1
+  ? - neat
+  : thin: 1
+    collar.: 1
+  ? - china
+  : has: 1
+    doll.: 1
+    "hit,": 1
+  ? - term
+  : ended: 1
+  ? - against
+  : your: 1
+    the: 1
+  ? - story
+  : makes: 1
+    house: 1
+  ? - main
+  : business: 1
+  ? - "off"
+  : her: 1
+    his: 1
+  ? - plunge
+  : in.: 1
+  ? - tones
+  : of: 1
+  ? - betrayed
+  : the: 1
+  ? - jumped
+  : the: 1
+    "on": 1
+  ? - Thick
+  : glasses: 1
+  ? - jug
+  : is: 1
+  ? - broke.
+  : ~: 2
+  ? - three.
+  : ~: 1
+  ? - Thieves
+  : who: 1
+  ? - Mondays.
+  : ~: 1
+  ? - fine
+  : brand: 1
+    with: 2
+    punch.: 1
+    hard: 1
+    designs.: 1
+    ribbons.: 1
+    lines: 1
+  ? - fired
+  : today: 1
+  ? - steps.
+  : ~: 1
+  ? - shortened.
+  : ~: 1
+  ? - road.
+  : ~: 4
+  ? - many
+  : changes.: 1
+    friends.: 1
+    names.: 1
+    ways: 1
+    times.: 1
+  ? - Breathe
+  : deep: 1
+  ? - To
+  : reach: 1
+    make: 1
+    send: 1
+    have: 1
+  ? - small
+  : creek: 1
+    dog.: 1
+    danger: 1
+    pup: 1
+    note: 1
+    fish: 1
+    red: 1
+    faults.: 1
+  ? - send
+  : it.: 1
+  ? - oath
+  : of: 1
+  ? - statement.
+  : ~: 1
+  ? - danger
+  : "on": 1
+  ? - water
+  : mix: 1
+    in: 1
+    taps.: 1
+    for: 1
+  ? - dinner.
+  : ~: 1
+  ? - those.
+  : ~: 1
+  ? - "spark,"
+  : else: 1
+  ? - blades
+  : softly.: 1
+  ? - All
+  : sat: 1
+  ? - wet
+  : with: 1
+    stain: 1
+  ? - touch.
+  : ~: 1
+  ? - too
+  : droopy.: 1
+    high: 1
+    soon.: 1
+  ? - laugh.
+  : ~: 1
+  ? - pennant
+  : waved: 1
+  ? - dirt
+  : piles: 1
+    away.: 1
+    fell: 1
+  ? - fine.
+  : ~: 1
+  ? - her
+  : ears: 1
+    laugh.: 1
+    now.: 1
+    cape: 1
+    dress.: 1
+    hat.: 1
+    a: 1
+    feet.: 1
+  ? - Hedge
+  : apples: 1
+  ? - mud
+  : or: 1
+  ? - closely
+  : the: 1
+  ? - cooked
+  : before: 1
+  ? - bloom
+  : of: 1
+  ? - once
+  : and: 1
+    more.: 2
+    or: 1
+  ? - bills
+  : "on": 1
+    were: 1
+  ? - slow!y
+  : but: 1
+  ? - crackers.
+  : ~: 2
+  ? - Paper
+  : will: 1
+    is: 1
+  ? - line
+  : where: 1
+    over: 1
+  ? - green.
+  : ~: 2
+  ? - not
+  : suffer: 1
+    win: 1
+    if: 1
+    to: 2
+  ? - fool
+  : the: 1
+  ? - Hurdle
+  : the: 1
+  ? - steam.
+  : ~: 1
+  ? - ended
+  : in: 1
+  ? - cold
+  : dip: 1
+    drizzle: 1
+    pot.: 1
+    enough.: 1
+  ? - grow
+  : "on": 1
+    in.: 1
+  ? - help
+  : to: 1
+    get: 1
+  ? - ear.
+  : ~: 1
+  ? - pure
+  : "ice,": 1
+  ? - brass
+  : tube: 1
+    objects.: 1
+    cover.: 1
+  ? - Hats
+  : are: 1
+  ? - cart
+  : broke.: 1
+    along.: 1
+  ? - shoe.
+  : ~: 2
+  ? - jell.
+  : ~: 1
+  ? - sad
+  : tan.: 1
+  ? - deep
+  : sleep.: 1
+    scratch.: 1
+    in: 1
+    and: 1
+    along: 1
+  ? - fish
+  : swam: 1
+    caught: 1
+    twisted: 1
+  ? - drown
+  : the: 1
+  ? - marsh
+  : will: 1
+  ? - flickered.
+  : ~: 1
+  ? - Hold
+  : the: 1
+  ? - grain
+  : to: 1
+    farmer.: 1
+  ? - cloud
+  : moved: 1
+    hung: 1
+    of: 1
+  ? - girl
+  : took: 1
+    gave: 1
+    was: 1
+    at: 1
+  ? - spring.
+  : ~: 1
+  ? - woman
+  : get: 1
+  ? - trap
+  : to: 1
+  ? - Cheap
+  : clothes: 1
+  ? - wisp
+  : of: 1
+  ? - Tack
+  : the: 1
+  ? - nose.
+  : ~: 1
+  ? - events
+  : take: 1
+  ? - hat.
+  : ~: 2
+  ? - front
+  : lawn.: 1
+    closet.: 1
+    of: 1
+  ? - blue.
+  : ~: 2
+  ? - Wake
+  : and: 1
+  ? - circled
+  : the: 1
+  ? - moss
+  : grows: 1
+  ? - raging
+  : storm.: 1
+  ? - wind
+  : blew.: 1
+    blows.: 1
+  ? - fire
+  : hose: 1
+    to: 1
+    kept: 1
+  ? - gold
+  : vase: 1
+    cloth: 1
+    silk: 1
+    ring: 2
+    buckle.: 1
+  ? - valve.
+  : ~: 1
+  ? - fields.
+  : ~: 1
+  ? - read.
+  : ~: 1
+  ? - stones.
+  : ~: 1
+  ? - March
+  : the: 1
+  ? - mules
+  : healthy.: 1
+  ? - crunch
+  : of: 1
+  ? - fence.
+  : ~: 2
+  ? - tape
+  : bound: 1
+  ? - pal
+  : thirty: 1
+  ? - for
+  : hikes: 1
+    us.: 1
+    making: 2
+    football: 1
+    raw: 1
+    walking: 1
+    lack: 1
+    funds: 2
+    want.: 1
+    payment: 1
+    "pirate's": 1
+    turkey.: 1
+    shipping.: 1
+    the: 5
+    pleasure.: 1
+    a: 7
+    this: 1
+    us: 1
+    him.: 1
+    our: 1
+    ladies: 1
+    planes.: 1
+    miles: 1
+  ? - clothes.
+  : ~: 1
+  ? - Look
+  : in: 1
+  ? - same
+  : morning.: 1
+    size.: 1
+    phrase: 1
+    tunes: 1
+  ? - base
+  : for: 1
+  ? - right
+  : verdict.: 1
+    foot: 1
+    now: 1
+    hand: 1
+  ? - bent
+  : and: 1
+    hook.: 1
+  ? - shaggy
+  : dog.: 1
+  ? - knife.
+  : ~: 2
+  ? - sheet.
+  : ~: 1
+  ? - vest.
+  : ~: 1
+  ? - slip
+  : it.: 1
+  ? - drink.
+  : ~: 2
+  ? - cuts
+  : and: 1
+    through: 1
+  ? - Seven
+  : seals: 1
+  ? - pencil
+  : to: 1
+    with: 1
+    was: 1
+  ? - healthy.
+  : ~: 1
+  ? - limits
+  : of: 1
+  ? - binds
+  : the: 1
+  ? - head.
+  : ~: 1
+  ? - Down
+  : that: 1
+  ? - person
+  : takes: 1
+    to: 1
+  ? - shimmered
+  : in: 1
+  ? - verdict.
+  : ~: 1
+  ? - miles
+  : of: 1
+    around.: 1
+  ? - mix
+  : well.: 1
+  ? - glue.
+  : ~: 1
+  ? - scoot
+  : to: 1
+  ? - islands
+  : the: 1
+  ? - now
+  : are: 1
+    have: 1
+    in: 1
+    hard: 1
+    and: 2
+  ? - Even
+  : a: 1
+    the: 1
+  ? - pound
+  : of: 1
+  ? - black
+  : cat.: 1
+    lead: 1
+    lines.: 1
+    paint: 1
+    trunk: 1
+  ? - porch
+  : with: 1
+    steps.: 1
+  ? - has
+  : come: 1
+    st: 1
+    a: 1
+  ? - crane
+  : is: 1
+  ? - zestful
+  : food: 1
+  ? - leave.
+  : ~: 1
+  ? - ox.
+  : ~: 1
+  ? - desk.
+  : ~: 2
+  ? - wet.
+  : ~: 1
+  ? - lawyer
+  : tried: 1
+    to: 1
+  ? - group.
+  : ~: 1
+  ? - cherish.
+  : ~: 1
+  ? - Next
+  : Tuesday: 1
+    Sunday: 1
+  ? - Mince
+  : pie: 1
+  ? - suit
+  : the: 1
+  ? - stare
+  : at: 1
+  ? - Acid
+  : burns: 1
+  ? - once.
+  : ~: 1
+  ? - strip
+  : of: 1
+  ? - plans
+  : right: 1
+    fail: 1
+  ? - Dull
+  : stories: 1
+  ? - lost
+  : their: 1
+    ship.: 1
+    cause.: 1
+  ? - Those
+  : words: 1
+    last: 1
+  ? - nest
+  : housed: 1
+  ? - parked
+  : truck.: 1
+  ? - quite
+  : stupid.: 1
+    dull: 1
+    neatly.: 1
+  ? - pepper
+  : spoils: 1
+  ? - She
+  : was: 2
+    called: 1
+    flaps: 1
+    saw: 1
+    blushed: 1
+    sewed: 1
+    danced: 1
+    has: 1
+  ? - odor
+  : of: 1
+  ? - earth.
+  : ~: 1
+  ? - Smile
+  : when: 1
+  ? - Try
+  : to: 2
+  ? - spin.
+  : ~: 1
+  ? - Trample
+  : the: 1
+  ? - admit
+  : our: 1
+  ? - Pack
+  : the: 2
+  ? - between
+  : thought: 1
+    the: 3
+  ? - white
+  : shirt.: 1
+    mouse: 1
+    silk: 1
+    backs.: 1
+    and: 1
+    orchid.: 1
+  ? - eyes.
+  : ~: 1
+  ? - "net,"
+  : and: 1
+  ? - make
+  : brass: 1
+    her: 1
+    costly: 1
+    it: 1
+    a: 1
+    pure: 1
+  ? - busses
+  : stalled: 1
+  ? - under
+  : the: 4
+  ? - cone
+  : costs: 1
+  ? - Pick
+  : a: 1
+  ? - sheet
+  : from: 1
+    under: 1
+    to: 1
+  ? - showed
+  : the: 1
+  ? - blew.
+  : ~: 1
+  ? - ditch.
+  : ~: 1
+  ? - eat
+  : the: 1
+  ? - ought
+  : to: 1
+  ? - ham.
+  : ~: 1
+  ? - "don't"
+  : get: 1
+    like: 1
+    break: 1
+  ? - sweater
+  : sat: 1
+  ? - punch.
+  : ~: 1
+  ? - ring.
+  : ~: 1
+  ? - tray.
+  : ~: 1
+  ? - list
+  : of: 2
+  ? - Throw
+  : out: 1
+  ? - carpet
+  : "on": 1
+    to: 1
+  ? - warm
+  : waters: 1
+  ? - bricks.
+  : ~: 1
+  ? - door
+  : was: 1
+    creaked: 1
+    slam.: 1
+    tight.: 1
+    of: 1
+  ? - warmth
+  : and: 1
+  ? - faults.
+  : ~: 1
+  ? - Quench
+  : your: 1
+  ? - stockings
+  : is: 1
+  ? - rainy
+  : days.: 1
+  ? - mantel
+  : and: 1
+  ? - leash
+  : as: 1
+  ? - hear
+  : the: 1
+  ? - "man's"
+  : fall.: 1
+  ? - flaw.
+  : ~: 1
+  ? - often.
+  : ~: 1
+  ? - kits
+  : and: 1
+  ? - friends.
+  : ~: 3
+  ? - Breakfast
+  : buns: 1
+  ? - Fairy
+  : tales: 1
+  ? - act
+  : was: 1
+  ? - block
+  : of: 1
+    form.: 1
+  ? - again.
+  : ~: 2
+  ? - tilted
+  : at: 1
+  ? - these.
+  : ~: 1
+  ? - lead
+  : and: 1
+    writes: 1
+    the: 1
+  ? - dash
+  : of: 1
+  ? - fits
+  : only: 1
+    in: 1
+  ? - want
+  : to: 1
+  ? - middle.
+  : ~: 1
+  ? - cats
+  : goes: 1
+  ? - Fasten
+  : two: 1
+  ? - Greet
+  : the: 1
+  ? - cause.
+  : ~: 1
+  ? - dive
+  : was: 1
+  ? - rough
+  : needs: 1
+  ? - books.
+  : ~: 1
+  ? - sky
+  : that: 1
+    in: 1
+  ? - smile
+  : gets: 1
+  ? - He
+  : knew: 1
+    said: 1
+    crawled: 1
+    lay: 1
+    used: 1
+    sent: 2
+    ran: 1
+    wheeled: 1
+    offered: 1
+    smoke: 1
+    carved: 1
+    took: 1
+    picked: 1
+    ordered: 1
+    broke: 2
+    wrote: 3
+    asks: 1
+    takes: 1
+    put: 1
+    lent: 1
+  ? - wading
+  : bird.: 1
+  ? - forest.
+  : ~: 1
+  ? - lot.
+  : ~: 1
+  ? - sew
+  : both: 1
+    a: 1
+  ? - priceless
+  : stones.: 1
+  ? - worn.
+  : ~: 1
+  ? - shed
+  : corner.: 1
+  ? - spilled
+  : its: 1
+    water.: 1
+  ? - dry
+  : leaves: 1
+    wax: 1
+    out: 1
+    and: 1
+  ? - luggage
+  : space.: 1
+  ? - bonds.
+  : ~: 1
+  ? - beat
+  : strongly: 1
+    this: 1
+    his: 1
+  ? - deserve
+  : jail.: 1
+  ? - met
+  : to: 1
+    while: 1
+  ? - claim
+  : got: 1
+  ? - st
+  : smart: 1
+  ? - river.
+  : ~: 1
+  ? - items.
+  : ~: 1
+  ? - buns
+  : are: 1
+  ? - flaps
+  : her: 1
+  ? - lot
+  : of: 1
+  ? - early.
+  : ~: 3
+  ? - drenching
+  : rain.: 1
+  ? - Port
+  : is: 1
+  ? - clay
+  : bricks.: 1
+    gently: 1
+  ? - defense.
+  : ~: 1
+  ? - work
+  : to: 1
+    of: 1
+    faced: 1
+    better: 1
+    such: 1
+  ? - shaky
+  : barn: 1
+    floor.: 1
+  ? - gifts.
+  : ~: 1
+  ? - are
+  : pushed: 1
+    flashy: 1
+    free: 1
+    more: 1
+    false.: 1
+    used: 1
+    small: 1
+    sold: 1
+    best: 1
+    different: 1
+    "small,": 1
+    built: 1
+    fine: 1
+    sure: 1
+    worn: 1
+    set: 1
+    hazy.: 1
+    many: 1
+    jangled: 1
+    men: 1
+    sour: 1
+    paved: 1
+    sent.: 1
+    a: 1
+    found: 1
+    hard: 1
+    absent: 1
+    narrow: 1
+    fit: 1
+  ? - pulled
+  : the: 1
+  ? - drilled
+  : through: 1
+  ? - lit
+  : a: 1
+  ? - baby
+  : puts: 1
+  ? - push
+  : it: 1
+  ? - half
+  : of: 1
+    way: 1
+  ? - floor
+  : with: 1
+    makes: 1
+    was: 1
+  ? - Nine
+  : rows: 1
+    men: 1
+  ? - plan
+  : and: 1
+    needs: 1
+  ? - secret.
+  : ~: 1
+  ? - Screw
+  : the: 1
+  ? - spot.
+  : ~: 1
+  ? - straight.
+  : ~: 1
+  ? - pierced
+  : ear.: 1
+    to: 1
+  ? - stew.
+  : ~: 2
+  ? - took
+  : a: 1
+    their: 1
+    up: 1
+    "off": 1
+    the: 2
+  ? - laugh
+  : filled: 1
+    although: 1
+  ? - Just
+  : hoist: 1
+  ? - burnt
+  : brown: 1
+  ? - buy.
+  : ~: 1
+  ? - your
+  : "thirst,": 1
+    gift: 1
+    sharp: 1
+    "shoes,": 1
+    speech: 1
+    best: 1
+    partner: 1
+    pack: 1
+    book: 1
+    left: 2
+    honor.: 1
+    shoe.: 2
+    problems: 1
+    hands: 1
+  ? - curls.
+  : ~: 1
+  ? - fresh
+  : air.: 1
+    start: 1
+  ? - taps.
+  : ~: 1
+  ? - chart.
+  : ~: 1
+  ? - burned
+  : to: 1
+    a: 1
+    rags: 1
+  ? - gently
+  : but: 1
+    into: 1
+  ? - protects
+  : the: 1
+  ? - paper.
+  : ~: 1
+  ? - ladies
+  : teach: 1
+  ? - stone.
+  : ~: 1
+  ? - asks
+  : "no": 1
+  ? - costs
+  : five: 1
+    more: 1
+  ? - muff
+  : is: 1
+  ? - luck.
+  : ~: 2
+  ? - lake.
+  : ~: 1
+  ? - chart
+  : "on": 1
+    with: 1
+  ? - Beef
+  : is: 1
+  ? - snow
+  : drifts.: 1
+    was: 1
+  ? - ends.
+  : ~: 1
+  ? - way.
+  : ~: 1
+  ? - bred
+  : poodles: 1
+  ? - wear
+  : the: 1
+  ? - corner
+  : lot.: 1
+    store: 1
+    to: 1
+  ? - grace.
+  : ~: 1
+  ? - first
+  : part: 1
+    draft.: 1
+    worm: 1
+    page.: 1
+    scores.: 1
+  ? - fifth
+  : night.: 1
+  ? - picked
+  : up: 1
+  ? - tinged
+  : with: 1
+  ? - glow
+  : deepened: 1
+  ? - last.
+  : ~: 1
+  ? - cream.
+  : ~: 1
+  ? - earth
+  : for: 1
+  ? - attack.
+  : ~: 1
+  ? - toad
+  : and: 1
+  ? - great
+  : sheets.: 1
+    fund.: 1
+    speed.: 1
+    young: 1
+  ? - rain.
+  : ~: 1
+  ? - log
+  : with: 1
+    float: 1
+  ? - mark
+  : is: 1
+    the: 2
+  ? - Cut
+  : the: 2
+  ? - friend.
+  : ~: 1
+  ? - called
+  : his: 1
+  ? - low
+  : tide.: 1
+    score.: 1
+  ? - near
+  : the: 3
+  ? - ribbons.
+  : ~: 1
+  ? - Once
+  : we: 1
+  ? - words.
+  : ~: 1
+  ? - finished
+  : page.: 1
+  ? - "barred,"
+  : "locked,": 1
+  ? - feet.
+  : ~: 2
+  ? - dipped
+  : and: 1
+  ? - milk
+  : is: 1
+  ? - across
+  : from: 1
+    the: 2
+  ? - river
+  : is: 1
+  ? - shower
+  : of: 1
+  ? - waste.
+  : ~: 2
+  ? - light.
+  : ~: 1
+  ? - wearing
+  : clothes.: 1
+  ? - dress
+  : to: 1
+  ? - working
+  : man.: 1
+  ? - heavy
+  : blocks: 1
+    black: 1
+    blows.: 1
+  ? - wash
+  : most: 1
+  ? - market.
+  : ~: 1
+  ? - grapes
+  : was: 1
+  ? - mats.
+  : ~: 1
+  ? - smart
+  : way: 1
+  ? - gem
+  : in: 1
+  ? - fruit
+  : peel: 1
+    of: 1
+  ? - brim
+  : was: 1
+  ? - restless
+  : minds.: 1
+  ? - should
+  : not: 1
+    be: 3
+  ? - jam
+  : or: 1
+  ? - cause
+  : needs: 1
+    despair.: 1
+  ? - cord
+  : that: 1
+    will: 1
+  ? - speed.
+  : ~: 1
+  ? - edges
+  : straight.: 1
+    join: 1
+  ? - softly.
+  : ~: 1
+  ? - When
+  : you: 1
+    the: 1
+  ? - It
+  : "snowed,": 1
+    takes: 3
+    caught: 1
+    matters: 1
+    was: 3
+    is: 3
+  ? - none.
+  : ~: 1
+  ? - hall
+  : drapes: 1
+  ? - fry
+  : the: 1
+  ? - middle
+  : of: 1
+  ? - cement
+  : will: 1
+    had: 1
+  ? - break
+  : the: 1
+    in: 1
+  ? - waxed
+  : floor: 1
+  ? - Glue
+  : the: 1
+  ? - eyes
+  : of: 1
+  ? - slang
+  : word: 1
+  ? - promptly
+  : "on": 1
+  ? - Shake
+  : hands: 1
+    the: 1
+  ? - requests
+  : for: 1
+  ? - Always
+  : close: 1
+  ? - Five
+  : years: 1
+  ? - punch
+  : bowl.: 1
+  ? - sum
+  : to: 1
+    here.: 1
+  ? - Plead
+  : with: 1
+    to: 1
+  ? - Men
+  : strive: 1
+    think: 1
+  ? - cost
+  : little.: 1
+  ? - constant.
+  : ~: 1
+  ? - more
+  : often: 1
+    and: 1
+    sound: 1
+    than: 2
+  ? - stop
+  : it: 1
+  ? - boy
+  : could: 1
+    was: 1
+    owed: 1
+    "on": 1
+    missed: 1
+  ? - beside
+  : the: 3
+  ? - tacks.
+  : ~: 1
+  ? - sleep.
+  : ~: 2
+  ? - nerves
+  : are: 1
+  ? - say
+  : nasty: 1
+    nothing.: 1
+  ? - last
+  : cent.: 1
+    switch: 1
+    words: 1
+    chorus.: 1
+    novel: 1
+    night.: 1
+    cartridge: 1
+  ? - that
+  : of: 1
+    would: 1
+    road: 1
+    empty: 1
+    phone.: 1
+    binds: 1
+    high: 1
+    meant: 1
+    one: 1
+    year.: 1
+    morning: 1
+    with: 1
+    day.: 1
+  ? - about
+  : the: 1
+  ? - thrown
+  : beside: 1
+  ? - fright.
+  : ~: 1
+  ? - tenth
+  : of: 1
+  ? - contest
+  : is: 1
+  ? - lack
+  : a: 1
+    full: 1
+    cuffs: 1
+    flame: 1
+    of: 1
+  ? - side.
+  : ~: 5
+  ? - think
+  : and: 1
+  ? - lathe
+  : to: 1
+    cuts: 1
+  ? - Help
+  : the: 2
+  ? - plus
+  : seven: 1
+  ? - new.
+  : ~: 2
+  ? - pile
+  : dishes.: 1
+  ? - leaves.
+  : ~: 2
+  ? - playing
+  : "on": 1
+  ? - rusty
+  : gate.: 1
+    trap.: 1
+  ? - Large
+  : size: 1
+  ? - cents.
+  : ~: 1
+  ? - profit.
+  : ~: 1
+  ? - save
+  : money: 1
+  ? - planes.
+  : ~: 1
+  ? - or
+  : those.: 1
+    other: 1
+    you: 1
+    miss: 1
+    red: 1
+    flaw.: 1
+    dust: 1
+    crackers.: 1
+  ? - peace
+  : league: 1
+  ? - mild.
+  : ~: 1
+  ? - changing.
+  : ~: 1
+  ? - blow.
+  : ~: 2
+  ? - they
+  : tell: 1
+    when: 1
+    went: 1
+    attack.: 1
+    were: 1
+    talked.: 1
+  ? - plank
+  : was: 1
+  ? - don’t
+  : forget: 1
+    always: 1
+    last.: 1
+  ? - leg
+  : is: 1
+  ? - ice
+  : pail.: 1
+    frosted: 1
+    cream.: 1
+  ? - scores.
+  : ~: 1
+  ? - hands
+  : help: 1
+    green.: 1
+    with: 1
+  ? - Screen
+  : the: 1
+  ? - backs.
+  : ~: 1
+  ? - an
+  : X: 1
+    end: 1
+  ? - This
+  : is: 1
+    plank: 1
+    horse: 1
+    strong: 1
+    will: 1
+  ? - Press
+  : the: 2
+  ? - gaunt
+  : stranger.: 1
+  ? - snapped
+  : early.: 1
+  ? - rear
+  : of: 1
+  ? - rush
+  : for: 1
+  ? - gather
+  : sticks.: 1
+  ? - ramp
+  : led: 1
+  ? - phase
+  : of: 1
+  ? - pie
+  : into: 1
+    with: 1
+    is: 1
+  ? - sparkled
+  : in: 1
+  ? - Her
+  : purse: 1
+  ? - judge.
+  : ~: 1
+  ? - saves
+  : tender: 1
+  ? - other
+  : we: 1
+  ? - paint
+  : stretched: 1
+    covered: 1
+    was: 1
+  ? - fans
+  : like: 1
+  ? - ruins.
+  : ~: 2
+  ? - year.
+  : ~: 2
+  ? - past
+  : the: 1
+  ? - surface
+  : is: 1
+  ? - Choose
+  : between: 1
+  ? - Split
+  : the: 1
+  ? - key
+  : you: 1
+  ? - knife
+  : was: 1
+  ? - You
+  : cannot: 1
+  ? - wheat
+  : grew: 1
+  ? - sight
+  : by: 1
+  ? - rented
+  : the: 1
+  ? - pot
+  : hung: 1
+    of: 1
+    into: 1
+    "boiled,": 1
+  ? - drive
+  : the: 1
+  ? - orders
+  : with: 1
+  ? - good
+  : antique: 1
+    health.: 1
+    trap: 1
+    gain.: 1
+    cook.: 1
+    sense.: 1
+    than: 1
+    book: 1
+  ? - orchid.
+  : ~: 1
+  ? - kids
+  : from: 1
+  ? - streak
+  : of: 1
+  ? - frost
+  : has: 1
+  ? - street.
+  : ~: 3
+  ? - corner.
+  : ~: 1
+  ? - Pluck
+  : the: 1
+  ? - Street.
+  : ~: 1
+  ? - sense
+  : of: 1
+  ? - blocks.
+  : ~: 1
+  ? - painting.
+  : ~: 1
+  ? - know.
+  : ~: 1
+  ? - bucket.
+  : ~: 1
+  ? - flame
+  : and: 1
+  ? - young
+  : actress.: 1
+    boy.: 1
+    kid: 1
+    child: 1
+    calf: 1
+    girl: 1
+    peddler: 1
+    hearts: 1
+    prince: 1
+  ? - care
+  : along: 1
+  ? - hearts
+  : jump.: 1
+  ? - part.
+  : ~: 1
+  ? - sink
+  : is: 1
+  ? - meter
+  : says.: 1
+  ? - hired
+  : to: 1
+  ? - gives
+  : shade.: 1
+    us: 2
+  ? - pack.
+  : ~: 1
+  ? - take.
+  : ~: 1
+  ? - close
+  : the: 1
+  ? - swim.
+  : ~: 1
+  ? - swan
+  : dive: 1
+    boat.: 1
+  ? - nets.
+  : ~: 1
+  ? - air
+  : passed: 1
+    is: 1
+  ? - catch
+  : pink: 1
+    trout: 1
+    back: 1
+  ? - next
+  : puff: 1
+    hill.: 1
+    player.: 1
+  ? - thresh
+  : the: 1
+  ? - teeth.
+  : ~: 1
+  ? - balked
+  : and: 1
+  ? - clock.
+  : ~: 2
+  ? - revives
+  : his: 1
+  ? - card
+  : and: 1
+  ? - problems
+  : to: 1
+  ? - cover.
+  : ~: 1
+  ? - slid
+  : "on": 1
+    around: 1
+  ? - take
+  : it: 1
+    a: 1
+  ? - penny
+  : shone: 1
+  ? - neon
+  : lamp: 1
+  ? - button
+  : "on": 1
+    was: 1
+  ? - Bathe
+  : and: 1
+  ? - let
+  : it: 1
+  ? - outdoors.
+  : ~: 1
+  ? - guy
+  : is: 1
+  ? - says.
+  : ~: 1
+  ? - cans
+  : are: 1
+  ? - later.
+  : ~: 1
+  ? - Raise
+  : the: 1
+  ? - coat
+  : quite: 1
+    of: 1
+    to: 1
+    before: 1
+  ? - meant
+  : nothing.: 1
+  ? - stiff.
+  : ~: 1
+  ? - peg
+  : will: 1
+  ? - Write
+  : at: 1
+    "fast,": 1
+    a: 1
+  ? - ten
+  : inches.: 1
+    years: 1
+  ? - storm.
+  : ~: 1
+  ? - bound
+  : in: 1
+    the: 1
+  ? - beer
+  : was: 1
+    lingers.: 1
+  ? - road
+  : and: 1
+    shimmered: 1
+    is: 1
+  ? - dog
+  : wanders.: 1
+    down: 1
+  ? - free
+  : to: 1
+    with: 1
+    the: 1
+  ? - endure.
+  : ~: 1
+  ? - East.
+  : ~: 1
+  ? - stupid.
+  : ~: 1
+  ? - read
+  : the: 1
+  ? - fund
+  : to: 1
+  ? - music.
+  : ~: 1
+  ? - around.
+  : ~: 1
+  ? - tropics.
+  : ~: 1
+  ? - find
+  : the: 1
+    joy: 1
+  ? - danced
+  : like: 1
+  ? - ruled
+  : the: 1
+  ? - tin
+  : box: 1
+    tray.: 1
+  ? - Nudge
+  : gently: 1
+  ? - lanterns
+  : were: 1
+  ? - Soak
+  : the: 1
+  ? - top.
+  : ~: 2
+  ? - fallen
+  : leaves: 1
+  ? - sharp
+  : reef.: 1
+    turns.: 1
+    at: 1
+    odor.: 1
+    slant.: 1
+    and: 1
+    blow.: 1
+    side: 1
+  ? - clean.
+  : ~: 1
+  ? - erase
+  : blue: 1
+  ? - revolved
+  : in: 1
+  ? - cleat
+  : sank: 1
+  ? - "rise,"
+  : and: 1
+  ? - weak
+  : dying: 1
+    to: 1
+  ? - target.
+  : ~: 1
+  ? - Pages
+  : bound: 1
+  ? - public
+  : school.: 1
+  ? - Hang
+  : tinsel: 1
+  ? - tack
+  : it: 1
+  ? - set
+  : to: 1
+    of: 1
+    the: 1
+    in: 1
+    "on": 1
+  ? - finish.
+  : ~: 1
+  ? - could
+  : see: 1
+    start.: 1
+    be: 1
+    laugh: 1
+  ? - job
+  : done.: 1
+  ? - fly
+  : made: 1
+    north: 1
+    by: 1
+  ? - limp
+  : "on": 1
+  ? - spill
+  : it: 1
+  ? - kid
+  : jumped: 1
+  ? - brought
+  : our: 1
+    in: 1
+    straight: 1
+  ? - strokes.
+  : ~: 1
+  ? - were
+  : gay: 1
+    lines: 1
+    lined: 1
+    mailed: 1
+    pierced: 1
+    bare: 1
+    the: 1
+    stamped: 1
+    set: 1
+    led: 1
+    sad.: 1
+    blue.: 1
+    they: 1
+    fed: 1
+    painted: 1
+    hired: 1
+    a: 1
+    wet: 1
+  ? - thaw
+  : came: 1
+  ? - clowns.
+  : ~: 1
+  ? - poor.
+  : ~: 1
+  ? - March.
+  : ~: 1
+  ? - dull
+  : green.: 1
+    spot.: 1
+    night.: 1
+    sad: 1
+    and: 3
+  ? - band
+  : of: 1
+  ? - mob.
+  : ~: 1
+  ? - Will
+  : you: 1
+  ? - cook.
+  : ~: 1
+  ? - Go
+  : now: 1
+  ? - crack.
+  : ~: 1
+  ? - bowls.
+  : ~: 1
+  ? - breeze.
+  : ~: 1
+  ? - knew
+  : the: 1
+  ? - Jazz
+  : and: 1
+  ? - booze.
+  : ~: 1
+  ? - Most
+  : of: 1
+  ? - hinge
+  : "on": 1
+  ? - sugar
+  : makes: 1
+    costs: 1
+  ? - tales
+  : they: 1
+    should: 1
+    to: 1
+  ? - taste.
+  : ~: 2
+  ? - cannot
+  : brew: 1
+    be: 1
+  ? - lined
+  : with: 1
+  ? - weeks.
+  : ~: 1
+  ? - Cats
+  : and: 1
+  ? - thick
+  : coat: 1
+    paper: 1
+    slices.: 1
+  ? - wildly
+  : in: 1
+  ? - bolted
+  : as: 1
+  ? - showered
+  : down: 1
+  ? - us
+  : light.: 1
+    to: 1
+    many: 1
+    lose: 1
+    warmth: 1
+  ? - leaves
+  : and: 1
+    outside.: 1
+    was: 1
+  ? - calf
+  : to: 1
+  ? - swam
+  : in: 1
+  ? - players.
+  : ~: 1
+  ? - discuss
+  : their: 1
+  ? - rack.
+  : ~: 1
+  ? - account
+  : to: 1
+  ? - twisted.
+  : ~: 1
+  ? - spice
+  : comes: 1
+  ? - apple
+  : fell: 1
+  ? - zest.
+  : ~: 1
+  ? - men
+  : rate: 1
+    nho: 1
+    work.: 1
+    were: 1
+  ? - honor.
+  : ~: 1
+  ? - plans.
+  : ~: 1
+  ? - bad
+  : error: 1
+    turn.: 1
+  ? - Watch
+  : the: 1
+  ? - Either
+  : mud: 1
+  ? - ferment
+  : in: 1
+  ? - tender
+  : spring: 1
+    skin.: 1
+    eyes.: 1
+  ? - pole
+  : revolved: 1
+  ? - school.
+  : ~: 1
+  ? - wrong
+  : sums.: 1
+  ? - base.
+  : ~: 2
+  ? - piece
+  : here: 1
+  ? - town
+  : was: 1
+    in: 1
+  ? - "cord,"
+  : and: 1
+  ? - out
+  : in: 1
+    loud: 1
+    the: 2
+    when: 1
+    of: 1
+    tumbles: 1
+    three: 1
+  ? - dew.
+  : ~: 1
+  ? - case
+  : is: 1
+    was: 1
+  ? - almost
+  : hurt: 1
+    caused: 1
+    the: 1
+  ? - well
+  : oiled: 1
+    is: 1
+  ? - Move
+  : the: 1
+  ? - felt
+  : hat.: 1
+    gay: 1
+  ? - spread.
+  : ~: 1
+  ? - hat
+  : brim: 1
+  ? - beck
+  : gate: 1
+  ? - school
+  : children: 1
+  ? - lasts
+  : a: 1
+  ? - dropped
+  : down: 1
+  ? - put
+  : the: 1
+    his: 1
+  ? - halt
+  : the: 1
+  ? - Ripe
+  : pears: 1
+  ? - slush
+  : lay: 1
+  ? - facts
+  : don’t: 1
+  ? - breeze
+  : came: 1
+    is: 1
+  ? - those
+  : for: 1
+  ? - mumble
+  : your: 1
+  ? - line.
+  : ~: 1
+  ? - him
+  : home: 1
+    from: 1
+    with: 1
+    sad.: 1
+    read: 1
+  ? - latch
+  : "on": 1
+  ? - bump
+  : or: 1
+  ? - Feed
+  : the: 1
+  ? - keeps
+  : chicks: 1
+  ? - grass.
+  : ~: 5
+  ? - fevers.
+  : ~: 1
+  ? - blown
+  : and: 1
+  ? - purple
+  : tie: 1
+  ? - odor.
+  : ~: 2
+  ? - fierce.
+  : ~: 1
+  ? - Dip
+  : the: 1
+  ? - pan
+  : was: 1
+  ? - lines
+  : of: 1
+    along: 1
+  ? - stand
+  : is: 1
+  ? - stole
+  : the: 1
+  ? - distance.
+  : ~: 2
+  ? - whirled
+  : its: 1
+  ? - Post
+  : "no": 1
+  ? - open
+  : the: 1
+  ? - often
+  : than: 1
+    served: 1
+  ? - fight.
+  : ~: 1
+  ? - "king's"
+  : palate.: 1
+  ? - Keep
+  : the: 1
+  ? - Green
+  : ice: 1
+    moss: 1
+  ? - itches
+  : my: 1
+  ? - harder
+  : he: 1
+  ? - sometimes
+  : act.: 1
+  ? - brings
+  : us: 1
+  ? - rain
+  : made: 1
+  ? - books
+  : at: 1
+  ? - debt.
+  : ~: 2
+  ? - fasten
+  : your: 1
+  ? - leave
+  : quickly.: 1
+  ? - act.
+  : ~: 2
+  ? - heat.
+  : ~: 1
+  ? - sputtered
+  : and: 1
+  ? - Pile
+  : the: 1
+  ? - weather.
+  : ~: 1
+  ? - chorus.
+  : ~: 1
+  ? - Tight
+  : curls: 1
+  ? - guests
+  : and: 1
+  ? - chopped
+  : corn: 1
+    off.: 1
+  ? - lamp
+  : shone: 1
+    went: 1
+    firmly: 1
+  ? - seen
+  : "on": 2
+    at: 1
+  ? - There
+  : was: 1
+    are: 2
+    the: 1
+    is: 3
+  ? - ground
+  : floor: 1
+  ? - happen
+  : once: 1
+  ? - inside
+  : its: 1
+  ? - mouse
+  : some: 1
+  ? - hill.
+  : ~: 1
+  ? - off.
+  : ~: 4
+  ? - reach
+  : the: 2
+  ? - secrets
+  : are: 1
+  ? - rice
+  : is: 1
+  ? - foot
+  : in: 1
+  ? - glaring
+  : at: 1
+  ? - Tea
+  : served: 1
+    in: 1
+  ? - doubt
+  : into: 1
+    about: 1
+  ? - tent
+  : and: 1
+  ? - sofa
+  : cushion: 1
+  ? - post.
+  : ~: 1
+  ? - cow
+  : lay: 1
+  ? - torn
+  : coat: 1
+    apart: 1
+  ? - than
+  : others.: 1
+    a: 2
+    none.: 1
+    half: 1
+    two: 1
+    eggs.: 1
+    that: 1
+    some: 1
+    to: 1
+    ten.: 1
+    fierce.: 1
+  ? - bare
+  : of: 1
+    fields.: 1
+  ? - fix
+  : it: 1
+  ? - turns.
+  : ~: 1
+  ? - tinsel
+  : from: 1
+  ? - drip
+  : of: 1
+    is: 1
+  ? - treadmill
+  : day: 1
+  ? - hook.
+  : ~: 1
+  ? - rosebush
+  : near: 1
+  ? - although
+  : they: 1
+  ? - whiskey
+  : is: 1
+  ? - bond
+  : drive.: 1
+  ? - drop
+  : the: 1
+  ? - lists
+  : of: 1
+  ? - pencils
+  : have: 1
+  ? - Every
+  : word: 1
+  ? - broken
+  : valve.: 1
+  ? - drizzle
+  : will: 1
+  ? - ~
+  : Large: 1
+    Farmers: 1
+    Pick: 1
+    Tin: 1
+    Leaves: 1
+    Take: 5
+    Shape: 1
+    High: 1
+    Always: 1
+    Get: 1
+    Sit: 1
+    Corn: 1
+    Fruit: 1
+    Smoke: 1
+    Tuck: 1
+    Tear: 1
+    Cut: 2
+    Mend: 1
+    Either: 1
+    Lush: 1
+    Twist: 1
+    Plead: 2
+    Breathe: 1
+    We: 13
+    You: 1
+    Dig: 1
+    Draw: 1
+    Add: 4
+    Most: 1
+    Hurdle: 1
+    Better: 1
+    Hold: 1
+    Beat: 1
+    Sunday: 1
+    Ship: 1
+    Thick: 1
+    Dots: 1
+    Rice: 1
+    Kick: 1
+    Grape: 1
+    Tend: 1
+    Paper: 2
+    If: 1
+    In: 2
+    Gray: 1
+    Fake: 1
+    Screen: 1
+    Five: 1
+    Fly: 1
+    Smoky: 1
+    That: 2
+    Beef: 1
+    Glass: 1
+    Hoist: 1
+    Bail: 1
+    Eight: 1
+    Set: 1
+    Ten: 1
+    Next: 2
+    Watch: 1
+    A: 72
+    Fill: 2
+    Say: 1
+    Soak: 1
+    Slide: 3
+    Fine: 1
+    Slidc: 1
+    Dimes: 1
+    Four: 1
+    Pack: 2
+    Go: 1
+    Flood: 1
+    Sever: 1
+    Turn: 1
+    Poached: 1
+    "No": 3
+    Fairy: 1
+    Much: 1
+    Wake: 1
+    Dip: 1
+    It: 12
+    Cats: 1
+    Jump: 1
+    Split: 1
+    March: 1
+    Look: 1
+    Dunk: 1
+    Find: 1
+    Their: 1
+    Greet: 1
+    Wipe: 1
+    Paint: 1
+    The: 262
+    Jerk: 3
+    Clothes: 1
+    Open: 2
+    An: 1
+    Shut: 1
+    Small: 1
+    Some: 1
+    Post: 1
+    Tack: 1
+    Send: 1
+    Torn: 1
+    Act: 1
+    Serve: 1
+    Lift: 1
+    Slash: 1
+    Carry: 1
+    Seed: 1
+    Drive: 1
+    Drop: 2
+    Schools: 1
+    "It's": 2
+    What: 1
+    Float: 1
+    Light: 1
+    Tea: 2
+    Feel: 1
+    Throw: 1
+    Bribes: 1
+    Neat: 1
+    Help: 2
+    At: 2
+    All: 1
+    Rake: 1
+    Many: 1
+    Dispense: 1
+    Men: 2
+    Feed: 1
+    Soap: 1
+    These: 4
+    Write: 3
+    North: 1
+    Smile: 1
+    This: 5
+    Yell: 1
+    Once: 1
+    Acid: 1
+    Weave: 1
+    Bottles: 1
+    Dill: 1
+    He: 24
+    Pages: 1
+    Boards: 1
+    Code: 1
+    Oak: 1
+    Shake: 2
+    Every: 1
+    Nudge: 1
+    When: 2
+    Cars: 1
+    Be: 1
+    Screw: 1
+    Put: 1
+    Note: 1
+    Where: 1
+    "Let's": 1
+    Roads: 1
+    Nine: 2
+    Those: 2
+    Pink: 1
+    Peep: 1
+    Ripe: 1
+    Footprints: 1
+    "On": 1
+    Cap: 1
+    Even: 2
+    Her: 1
+    Guess: 1
+    Pitch: 1
+    Move: 1
+    Just: 1
+    Clams: 1
+    Sell: 1
+    Glue: 1
+    Cheap: 1
+    Mark: 1
+    Oats: 1
+    Cod: 1
+    Place: 1
+    Burn: 1
+    Women: 1
+    Mud: 1
+    "Madam,": 1
+    Will: 1
+    Thieves: 1
+    Lire: 1
+    Green: 2
+    Two: 2
+    Bathe: 1
+    Stop: 2
+    Hang: 1
+    Hats: 1
+    Bad: 1
+    Jazz: 1
+    Paste: 1
+    Sweet: 1
+    Ducks: 1
+    Pile: 1
+    Leave: 1
+    There: 7
+    Pluck: 1
+    Do: 1
+    Use: 1
+    Hemp: 1
+    Time: 1
+    Pour: 1
+    Down: 1
+    Prod: 1
+    Dull: 1
+    Pure: 1
+    Breakfast: 1
+    Bring: 2
+    She: 9
+    Whitings: 1
+    His: 3
+    Birth: 1
+    Xew: 1
+    Calves: 1
+    Hop: 1
+    Heave: 1
+    Both: 2
+    Try: 2
+    Let: 1
+    Fasten: 1
+    Keep: 1
+    To: 4
+    Seven: 1
+    Crack: 1
+    They: 10
+    Canned: 1
+    Three: 1
+    One: 1
+    Wood: 1
+    Sickness: 1
+    Our: 2
+    Loop: 1
+    Tight: 1
+    Raise: 1
+    ii: 1
+    Mince: 1
+    Press: 2
+    Adding: 1
+    Read: 2
+    Brass: 1
+    Steam: 1
+    Hedge: 1
+    Port: 1
+    Quench: 1
+    Flax: 1
+    Each: 1
+    Fish: 1
+    Choose: 1
+    After: 1
+    Grace: 1
+    Coax: 1
+    Trample: 1
+    Type: 1
+    Mesh: 1
+    Crouch: 1
+    See: 2
+  ? - work.
+  : ~: 1
+  ? - path
+  : he: 1
+    to: 1
+  ? - cruiser
+  : was: 1
+  ? - two
+  : factors: 1
+    when: 1
+    pins: 1
+    met: 1
+    distinct: 1
+    shares: 1
+    leaves.: 1
+  ? - "no"
+  : person: 1
+    clear: 1
+    bottom.: 1
+    bills: 1
+    small: 1
+  ? - cheese
+  : improves: 1
+  ? - wise.
+  : ~: 1
+  ? - unfit
+  : to: 1
+  ? - One
+  : step: 1
+  ? - simplest
+  : things.: 1
+  ? - book.
+  : ~: 2
+  ? - parts.
+  : ~: 1
+  ? - crate
+  : but: 1
+    was: 1
+  ? - gets
+  : few: 1
+    snapped: 1
+  ? - beauty.
+  : ~: 1
+  ? - shelter
+  : in: 1
+  ? - wall.
+  : ~: 5
+  ? - bank.
+  : ~: 1
+  ? - shoulder.
+  : ~: 1
+  ? - tree
+  : is: 1
+    was: 1
+    top: 1
+  ? - Cap
+  : the: 1
+  ? - down.
+  : ~: 2
+  ? - northern
+  : side.: 1
+  ? - runs
+  : down: 1
+  ? - very
+  : start.: 1
+  ? - weed
+  : found: 1
+  ? - reef.
+  : ~: 1
+  ? - Tin
+  : cans: 1
+  ? - went
+  : out.: 1
+    straight: 1
+    to: 1
+  ? - contents.
+  : ~: 2
+  ? - sea.
+  : ~: 1
+  ? - six
+  : minutes.: 1
+    comes: 1
+  ? - severe
+  : storm: 1
+  ? - clouds
+  : floated: 1
+  ? - Leave
+  : now: 1
+  ? - slice
+  : the: 1
+  ? - long
+  : pole.: 1
+    list: 1
+    journey: 1
+  ? - fast.
+  : ~: 1
+  ? - before
+  : you: 3
+    the: 6
+  ? - fudge.
+  : ~: 2
+  ? - stream.
+  : ~: 2
+  ? - tall
+  : gaunt: 1
+    wading: 1
+    rider.: 2
+    and: 1
+    glasses: 1
+  ? - as
+  : paid: 1
+    well.: 1
+    a: 1
+    she: 1
+    we: 2
+    soon: 1
+    he: 1
+    needed.: 1
+    tight: 1
+    the: 1
+  ? - times.
+  : ~: 3
+  ? - it.
+  : now: 1
+    ~: 4
+    under: 1
+  ? - way
+  : the: 1
+    of: 1
+    and: 1
+    along: 1
+    to: 4
+  ? - started.
+  : ~: 1
+  ? - bright
+  : sheath.: 1
+    red: 1
+    blue.: 1
+    brass.: 1
+    rose: 1
+    clean: 1
+    trinkets: 1
+    lanterns: 1
+  ? - tiny
+  : girl: 1
+  ? - loss
+  : of: 2
+  ? - eastern
+  : sky.: 1
+  ? - vouch
+  : for: 1
+  ? - tailor
+  : is: 1
+  ? - march.
+  : ~: 1
+  ? - fans.
+  : ~: 1
+  ? - thin
+  : book: 1
+    sheet: 1
+    case.: 1
+    stripe: 1
+    with: 1
+    china: 1
+    silver: 1
+    wooden: 1
+    board.: 1
+  ? - June
+  : sun.: 1
+    that: 1
+  ? - more.
+  : ~: 2
+  ? - Act
+  : "on": 1
+  ? - need
+  : grain: 1
+    an: 1
+    fun.: 1
+  ? - west
+  : is: 1
+  ? - sour
+  : but: 1
+  ? - roof
+  : should: 1
+  ? - period.
+  : ~: 1
+  ? - others.
+  : ~: 1
+  ? - valve
+  : and: 1
+  ? - tight
+  : and: 1
+    brass: 1
+    as: 1
+  ? - cut
+  : across: 1
+    to: 1
+    in: 1
+    the: 1
+  ? - things.
+  : ~: 2
+  ? - king
+  : ruled: 1
+  ? - rink
+  : for: 1
+  ? - morning.
+  : ~: 1
+  ? - housed
+  : five: 1
+  ? - Hoist
+  : the: 1
+  ? - town.
+  : ~: 2
+  ? - Clothes
+  : and: 1
+  ? - plate.
+  : ~: 2
+  ? - pickle
+  : tastes: 1
+  ? - flood.
+  : ~: 1
+  ? - cured
+  : him: 1
+  ? - X
+  : that: 1
+  ? - pipes.
+  : ~: 1
+order: 1
