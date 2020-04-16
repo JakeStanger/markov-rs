@@ -34,10 +34,10 @@ Then create a new instance:
 const chain = new StringChain();
 
 // or to create a chain of specific order:
-const chain = new MarkovChain(2);
+const chain = new StringChain(2);
 
 // or to load a previously saved chain:
-const chain = new MarkovChain('./path/to/chain.mko');
+const chain = new StringChain('./path/to/chain.mko');
 ```
 
 And start using it:
