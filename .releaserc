@@ -1,0 +1,21 @@
+{
+  "repositoryUrl": "https://github.com/jakestanger/markov-rs",
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/npm",
+      {
+        "npmPublish": true
+      }
+    ],
+    [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "package.json"
+        ]
+      }
+    ]
+  ]
+}

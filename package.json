@@ -9,7 +9,12 @@
   },
   "author": "Jake Stanger <mail@jstanger.dev>",
   "license": "MIT",
-  "keywords": ["markov", "markov-chain", "rust", "native"],
+  "keywords": [
+    "markov",
+    "markov-chain",
+    "rust",
+    "native"
+  ],
   "scripts": {
     "install": "neon build",
     "test": "jest",
@@ -19,9 +24,10 @@
     "neon-cli": "^0.4.0"
   },
   "devDependencies": {
-    "jest": "^25.3.0",
+    "@semantic-release/git": "^9.0.0",
     "@types/jest": "^25.2.1",
     "@types/node": "^13.11.1",
+    "jest": "^25.3.0",
     "semantic-release": "^17.0.4"
   }
 }
