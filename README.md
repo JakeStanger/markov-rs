@@ -1,7 +1,7 @@
 # markov-rs
 [![Build Status](https://travis-ci.com/JakeStanger/markov-rs.svg?branch=master)](https://travis-ci.com/JakeStanger/markov-rs)
 
-Node bindings for the Rust module 'markov'.
+Node bindings for the Rust crate [markov](https://docs.rs/markov).
 
 This currently only offers a string markov chain, and a subsection of (arguably) the most useful methods.
 Typescript typings are included.
