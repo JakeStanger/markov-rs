@@ -1,6 +1,6 @@
 {
   "name": "markov-rs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node bindings for Rust markov module",
   "main": "lib/index.js",
   "repository": {
