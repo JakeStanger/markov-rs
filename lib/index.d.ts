@@ -29,7 +29,7 @@ export class StringChain {
   feedFile(path: string): void;
 
   /** Generates a random string of text using the chain. */
-  generateString(): void;
+  generateString(): string;
 
   /**
    * Generates a random string of text using the chain,
@@ -40,7 +40,7 @@ export class StringChain {
    *
    * @param token The starting token
    */
-  generateStringFromToken(token: string): void;
+  generateStringFromToken(token: string): string;
 
   /**
    * Saves the chain to the specified path
